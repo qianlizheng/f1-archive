@@ -108,7 +108,7 @@ def clean(s):
     return re.sub(r"\s+", " ", s).strip()
 
 
-def slugify(s, maxlen=70):
+def slugify(s, maxlen=120):
     s = re.sub(r"[^\w\u4e00-\u9fff-]+", "-", s).strip("-")
     return s[:maxlen] or "item"
 
@@ -214,8 +214,17 @@ PARSERS = {"fia_docs": parse_fia_docs, "html": parse_html, "rss": parse_rss}
 def save_item(item, src_name, day, is_pdf, download_pdf):
     folder = os.path.join(ARCHIVE, day, src_name)
     os.makedirs(folder, exist_ok=True)
-    slug = slugify(item["title"], 60) or slugify(item["url"].rsplit("/", 1)[-1])
+    slug = slugify(item["title"], 120) or slugify(item["url"].rsplit("/", 1)[-1])
     md_path = os.path.join(folder, slug + ".md")
+    if os.path.exists(md_path):
+        try:
+            head = open(md_path, encoding="utf-8").read(400)
+        except Exception:
+            head = ""
+        if item["url"] not in head:          # 同名但不同条目，加哈希区分
+            import hashlib
+            slug += "-" + hashlib.sha1(item["url"].encode()).hexdigest()[:4]
+            md_path = os.path.join(folder, slug + ".md")
 
     local_file = ""
     body = ""
