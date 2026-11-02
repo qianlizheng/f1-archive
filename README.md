@@ -77,6 +77,8 @@
 
 ## 抓什么
 
+### 核心源
+
 | 源 | 内容 | 类型 |
 |---|---|---|
 | `fia-decisions` | 赛事干事决定、传唤、车检、罚单全文 | PDF（自动抽正文） |
@@ -87,6 +89,34 @@
 
 FIA 决策文件这个源会自动找**最新赛季**的页面（默认停在上一季，
 脚本里有处理），所以不用每年改代码。
+
+### 车队源（2026-11-02 接入）
+
+11 支车队逐个探测过，9 支可用，2 支抓不了：
+
+| 车队 | 方式 | 状态 |
+|---|---|---|
+| Mercedes | sitemap `/news/` | ✅ |
+| Aston Martin | sitemap `/en-GB/news/` | ✅ |
+| Williams | sitemap `/articles/` | ✅（含西语版） |
+| Haas | sitemap `/news/` | ✅ |
+| Cadillac | sitemap `/news/` | ✅ |
+| Red Bull | sitemap `/int-en/<slug>` | ✅ |
+| Racing Bulls | sitemap `/int-en/<slug>` | ⚠️ sitemap 停在 2025-11，站点没更新 |
+| Audi | 集团媒体中心 + F1 关键词过滤 | ✅（会混入少量民用车新闻） |
+| Alpine | WordPress 子 sitemap + F1 关键词过滤 | ✅（法/英双语） |
+| **McLaren** | 纯 JS 渲染，页面无静态链接 | ❌ 抓不到 |
+| **Ferrari** | 纯 JS 渲染，无 sitemap 文章、无可发现接口 | ❌ 抓不到 |
+
+McLaren 和 Ferrari 不是配置问题，是站点结构问题：文章列表由浏览器
+端 JS 拉取，服务器返回的 HTML 里一个字都没有。要么等它们改版，
+要么用无头浏览器（成本高、易失效），不划算。
+
+**替代方案**：这两家的官方表态，`f1-latest` 和 `the-race` 通常会转引，
+不会完全漏掉——只是拿不到原文首发。
+
+车队源每轮每队最多取 8 条，按 sitemap 的 `lastmod` 倒序，
+所以拿到的一定是最新的。源配置在 `teams.py`，加人改这里即可。
 
 ---
 

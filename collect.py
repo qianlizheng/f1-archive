@@ -25,6 +25,7 @@ import json
 import os
 import re
 import shutil
+import ssl
 import subprocess
 import sys
 import time
@@ -33,6 +34,8 @@ import urllib.parse
 import urllib.request
 import xml.etree.ElementTree as ET
 from datetime import datetime, timezone, timedelta
+
+from teams import TEAM_SOURCES
 
 UA = ("Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
       "AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0 Safari/537.36")
@@ -81,17 +84,21 @@ SOURCES = [
 ]
 
 
+SOURCES.extend(TEAM_SOURCES)
+
+
 # ---------------------------------------------------------------- 工具
-def fetch(url, timeout=30, binary=False):
+def fetch(url, timeout=30, binary=False, insecure=False):
     req = urllib.request.Request(url, headers={
         "User-Agent": UA,
         "Accept": "*/*",
         "Accept-Language": "en-US,en;q=0.9",
     })
+    ctx = ssl._create_unverified_context() if insecure else None
     last = None
     for attempt in range(3):
         try:
-            with urllib.request.urlopen(req, timeout=timeout) as r:
+            with urllib.request.urlopen(req, timeout=timeout, context=ctx) as r:
                 data = r.read()
             break
         except Exception as e:
@@ -207,7 +214,60 @@ def parse_rss(src):
     return items
 
 
-PARSERS = {"fia_docs": parse_fia_docs, "html": parse_html, "rss": parse_rss}
+def _sitemap_pairs(url, sitemap_filter=None, depth=0, insecure=False):
+    """递归读取 sitemap（支持 sitemapindex），返回 [(url, lastmod)]。"""
+    raw = fetch(url, timeout=45, insecure=insecure)
+    if "<sitemapindex" in raw:
+        kids = re.findall(r"<loc>\s*([^<]+?)\s*</loc>", raw)
+        if sitemap_filter:
+            kids = [k for k in kids if re.search(sitemap_filter, k)]
+        out = []
+        for k in kids[:12]:
+            try:
+                out.extend(_sitemap_pairs(k, depth=depth + 1, insecure=insecure))
+            except Exception:
+                pass
+        return out
+
+    pairs = []
+    for block in re.findall(r"<url>(.*?)</url>", raw, re.S):
+        loc = re.search(r"<loc>\s*([^<]+?)\s*</loc>", block)
+        lm = re.search(r"<lastmod>\s*([^<]+?)\s*</lastmod>", block)
+        if loc:
+            pairs.append((loc.group(1).strip(), lm.group(1).strip() if lm else ""))
+    return pairs
+
+
+def title_from_url(url):
+    path = urllib.parse.urlparse(url).path.rstrip("/")
+    seg = path.rsplit("/", 1)[-1]
+    seg = re.sub(r"-\d{3,5}$", "", seg)          # 去掉 Audi 那种结尾数字
+    seg = re.sub(r"[-_]+", " ", seg).strip()
+    return seg[:1].upper() + seg[1:] if seg else url
+
+
+def parse_sitemap(src):
+    pairs = _sitemap_pairs(src["sitemap"], sitemap_filter=src.get("sitemap_filter"),
+                           insecure=src.get("insecure", False))
+    items, seen_local = [], set()
+    for url, lm in pairs:
+        if url in seen_local:
+            continue
+        if src.get("include") and not re.search(src["include"], url):
+            continue
+        if src.get("exclude") and re.search(src["exclude"], url):
+            continue
+        if src.get("keyword") and not re.search(src["keyword"], url, re.I):
+            continue
+        seen_local.add(url)
+        items.append({"title": title_from_url(url), "url": url, "kind": "page", "date": lm})
+    # 按 lastmod 倒序，保证最新的排前面
+    items.sort(key=lambda x: x.get("date") or "", reverse=True)
+    return items
+
+
+PARSERS = {"fia_docs": parse_fia_docs, "html": parse_html, "rss": parse_rss,
+           "sitemap": parse_sitemap}
 
 
 # ---------------------------------------------------------------- 存储
@@ -297,7 +357,8 @@ def main():
             print(f"[{src['name']}] 失败：{e}", file=sys.stderr)
             continue
 
-        fresh = [i for i in items if i["url"] not in seen][: args.limit]
+        cap = src.get("limit", args.limit)
+        fresh = [i for i in items if i["url"] not in seen][:cap]
         print(f"[{src['name']}] 抓到 {len(items)} 条，其中新增 {len(fresh)} 条")
 
         for it in fresh:
