@@ -185,11 +185,12 @@ def parse_html(src):
     for path, inner in re.findall(src["link_re"], page, re.S):
         if path in seen_local:
             continue
-        title = clean(inner)
+        url = src["base"] + path
+        title = title_from_url(url) if src.get("title_from_slug") else clean(inner)
         if len(title) < 8:          # 过滤「Read more」之类
             continue
         seen_local.add(path)
-        items.append({"title": title, "url": src["base"] + path, "kind": "page"})
+        items.append({"title": title, "url": url, "kind": "page"})
     return items
 
 
@@ -259,6 +260,14 @@ def parse_sitemap(src):
             continue
         if src.get("keyword") and not re.search(src["keyword"], url, re.I):
             continue
+        if src.get("max_age_days") and lm:
+            try:
+                from datetime import date
+                lm_day = date.fromisoformat(lm[:10])
+                if (date.today() - lm_day).days > src["max_age_days"]:
+                    continue
+            except Exception:
+                pass
         if src.get("min_slug"):
             seg = urllib.parse.urlparse(url).path.rstrip("/").rsplit("/", 1)[-1]
             if len(seg) < src["min_slug"]:
