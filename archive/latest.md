@@ -1,157 +1,124 @@
-# F1 素材摘要 · 2026-11-02 10:17
+# F1 素材摘要 · 2026-11-02 10:20
 
 
 ## fia-decisions
 
-- [2026 mexico city grand prix - championship points](https://www.fia.com/system/files/decision-document/2026_mexico_city_grand_prix_-_championship_points.pdf) （正文 29205 字）
-- [2026 mexico city grand prix - final race classification](https://www.fia.com/system/files/decision-document/2026_mexico_city_grand_prix_-_final_race_classification.pdf) （正文 7448 字）
-- [2026 mexico city grand prix - summons - car 30 - alleged mgu-k infringement](https://www.fia.com/system/files/decision-document/2026_mexico_city_grand_prix_-_summons_-_car_30_-_alleged_mgu-k_infringement.pdf) （正文 854 字）
-- [2026 mexico city grand prix - communication from the stewards](https://www.fia.com/system/files/decision-document/2026_mexico_city_grand_prix_-_communication_from_the_stewards.pdf) （正文 1276 字）
-- [2026 mexico city grand prix - mgu-k infringement car 30](https://www.fia.com/system/files/decision-document/2026_mexico_city_grand_prix_-_mgu-k_infringement_car_30.pdf) （正文 890 字）
-- [2026 mexico city grand prix - infringement - car 6 - crossing the white line at pit entry](https://www.fia.com/system/files/decision-document/2026_mexico_city_grand_prix_-_infringement_-_car_6_-_crossing_the_white_line_at_pit_entry.pdf) （正文 1928 字）
-- [2026 mexico city grand prix - infringement - car 55 - failed to follow race directors instructions - turn 11](https://www.fia.com/system/files/decision-document/2026_mexico_city_grand_prix_-_infringement_-_car_55_-_failed_to_follow_race_directors_instructions_-_turn_11.pdf) （正文 1946 字）
-- [2026 mexico city grand prix - decision - qualifying sc2-sc1 times](https://www.fia.com/system/files/decision-document/2026_mexico_city_grand_prix_-_decision_-_qualifying_sc2-sc1_times.pdf) （正文 3722 字）
-- [2026 mexico city grand prix - infringement - qualifying deleted lap times - double yellow](https://www.fia.com/system/files/decision-document/2026_mexico_city_grand_prix_-_infringement_-_qualifying_deleted_lap_times_-_double_yellow.pdf) （正文 2748 字）
-- [2026 mexico city grand prix - infringement - qualifying deleted lap times](https://www.fia.com/system/files/decision-document/2026_mexico_city_grand_prix_-_infringement_-_qualifying_deleted_lap_times.pdf) （正文 3534 字）
-- [2026 mexico city grand prix - covers-on time](https://www.fia.com/system/files/decision-document/2026_mexico_city_grand_prix_-_covers-on_time.pdf) （正文 641 字）
-- [2026 mexico city grand prix - provisional qualifying classification](https://www.fia.com/system/files/decision-document/2026_mexico_city_grand_prix_-_provisional_qualifying_classification.pdf) （正文 6524 字）
-- [2026 mexico city grand prix - infringement - car 14 - failed to replace the steering wheel after leaving the car](https://www.fia.com/system/files/decision-document/2026_mexico_city_grand_prix_-_infringement_-_car_14_-_failed_to_replace_the_steering_wheel_after_leaving_the_car.pdf) （正文 1830 字）
-- [2026 mexico city grand prix - infringement - free practice 3 deleted lap times](https://www.fia.com/system/files/decision-document/2026_mexico_city_grand_prix_-_infringement_-_free_practice_3_deleted_lap_times.pdf) （正文 5445 字）
-- [2026 mexico city grand prix - free practice 3 classification](https://www.fia.com/system/files/decision-document/2026_mexico_city_grand_prix_-_free_practice_3_classification.pdf) （正文 6292 字）
-- [2026 mexico city grand prix - infringment - car 77 - pit lane speeding](https://www.fia.com/system/files/decision-document/2026_mexico_city_grand_prix_-_infringment_-_car_77_-_pit_lane_speeding.pdf) （正文 1625 字）
-- [2026 mexico city grand prix - infringement - car 6 - misconduct](https://www.fia.com/system/files/decision-document/2026_mexico_city_grand_prix_-_infringement_-_car_6_-_misconduct.pdf) （正文 3183 字）
-- [2026 mexico city grand prix - self scrutineering after survival cell change](https://www.fia.com/system/files/decision-document/2026_mexico_city_grand_prix_-_self_scrutineering_after_survival_cell_change.pdf) （正文 611 字）
-- [2026 mexico city grand prix - post-qualifying procedure](https://www.fia.com/system/files/decision-document/2026_mexico_city_grand_prix_-_post-qualifying_procedure.pdf) （正文 5347 字）
-- [2026 mexico city grand prix - curfew](https://www.fia.com/system/files/decision-document/2026_mexico_city_grand_prix_-_curfew.pdf) （正文 1677 字）
-- [2026 mexico city grand prix - revised entry list](https://www.fia.com/system/files/decision-document/2026_mexico_city_grand_prix_-_revised_entry_list.pdf) （正文 3453 字）
-- [2026 mexico city grand prix - decision - driver change tgr haas f1 team](https://www.fia.com/system/files/decision-document/2026_mexico_city_grand_prix_-_decision_-_driver_change_tgr_haas_f1_team.pdf) （正文 1602 字）
-- [2026 mexico city grand prix - summons - car 6 - alleged misconduct](https://www.fia.com/system/files/decision-document/2026_mexico_city_grand_prix_-_summons_-_car_6_-_alleged_misconduct.pdf) （正文 916 字）
-- [2026 mexico city grand prix - infringement - car 30 - turn 14 incident with car 3](https://www.fia.com/system/files/decision-document/2026_mexico_city_grand_prix_-_infringement_-_car_30_-_turn_14_incident_with_car_3_.pdf) （正文 2877 字）
-- [2026 mexico city grand prix - infringement - car 3 - turn 14 incident with car 30](https://www.fia.com/system/files/decision-document/2026_mexico_city_grand_prix_-_infringement_-_car_3_-_turn_14_incident_with_car_30_.pdf) （正文 2859 字）
-- [2026 mexico city grand prix - infringement - car 5 - covering components](https://www.fia.com/system/files/decision-document/2026_mexico_city_grand_prix_-_infringement_-_car_5_-_covering_components.pdf) （正文 2980 字）
-- [2026 mexico city grand prix - fp1 and fp2 scrutineering](https://www.fia.com/system/files/decision-document/2026_mexico_city_grand_prix_-_fp1_and_fp2_scrutineering.pdf) （正文 3920 字）
-- [2026 mexico city grand prix - summons - audi - car 5 covering of components](https://www.fia.com/system/files/decision-document/2026_mexico_city_grand_prix_-_summons_-_audi_-_car_5_covering_of_components.pdf) （正文 834 字）
-- [2026 mexico city grand prix - covering of components on car 05 during fp2](https://www.fia.com/system/files/decision-document/2026_mexico_city_grand_prix_-_covering_of_components_on_car_05_during_fp2.pdf) （正文 983 字）
-- [2026 mexico city grand prix - race director notes - sc2 - sc1 times](https://www.fia.com/system/files/decision-document/2026_mexico_city_grand_prix_-_race_director_notes_-_sc2_-_sc1_times.pdf) （正文 754 字）
-
-## f1-latest
-
-- [Alpine duo stripped of Mexico City GP points after penalties](https://www.formula1.com/en/latest/article/alpines-gasly-and-colapinto-stripped-of-mexico-city-gp-points-after-post-race-penalties.2wLfobQHufuH1L1aMYPl7h) 
-
-## the-race
-
-- [Double penalty costs Alpine all its Mexican GP points](https://www.the-race.com/formula-1/double-penalty-costs-alpine-all-its-mexican-gp-points/) 
-- [Mercedes explains 'distraught' Russell's post-race absence after fine](https://www.the-race.com/formula-1/mercedes-explains-distraught-russells-post-race-absence-after-fine/) 
+- [2026 mexico city grand prix - infringement - free practice 2 deleted lap times](https://www.fia.com/system/files/decision-document/2026_mexico_city_grand_prix_-_infringement_-_free_practice_2_deleted_lap_times.pdf) （正文 4572 字）
+- [2026 mexico city grand prix - free practice 2 classification](https://www.fia.com/system/files/decision-document/2026_mexico_city_grand_prix_-_free_practice_2_classification.pdf) （正文 6418 字）
+- [2026 mexico city grand prix - infringment - car 14 - pit lane speeding 0](https://www.fia.com/system/files/decision-document/2026_mexico_city_grand_prix_-_infringment_-_car_14_-_pit_lane_speeding_0.pdf) （正文 1634 字）
+- [2026 mexico city grand prix - summons - car 30 - turn 14 incident with car 3](https://www.fia.com/system/files/decision-document/2026_mexico_city_grand_prix_-_summons_-_car_30_-_turn_14_incident_with_car_3.pdf) （正文 892 字）
+- [2026 mexico city grand prix - summons - car 3 - turn 14 incident with car 30](https://www.fia.com/system/files/decision-document/2026_mexico_city_grand_prix_-_summons_-_car_3_-_turn_14_incident_with_car_30.pdf) （正文 885 字）
+- [2026 mexico city grand prix - infringement - car 98 - released in an unsafe condition](https://www.fia.com/system/files/decision-document/2026_mexico_city_grand_prix_-_infringement_-_car_98_-_released_in_an_unsafe_condition.pdf) （正文 2350 字）
+- [2026 mexico city grand prix - infringement - free practice 1 deleted lap times - double yellow](https://www.fia.com/system/files/decision-document/2026_mexico_city_grand_prix_-_infringement_-_free_practice_1_deleted_lap_times_-_double_yellow.pdf) （正文 3017 字）
+- [2026 mexico city grand prix - infringement - free practice 1 deleted lap times](https://www.fia.com/system/files/decision-document/2026_mexico_city_grand_prix_-_infringement_-_free_practice_1_deleted_lap_times.pdf) （正文 5713 字）
+- [2026 mexico city grand prix - free practice 1 classification](https://www.fia.com/system/files/decision-document/2026_mexico_city_grand_prix_-_free_practice_1_classification.pdf) （正文 6421 字）
+- [2026 mexico city grand prix - infringment - car 14 - pit lane speeding](https://www.fia.com/system/files/decision-document/2026_mexico_city_grand_prix_-_infringment_-_car_14_-_pit_lane_speeding.pdf) （正文 1634 字）
+- [2026 mexico city grand prix - infringement - car 77 - pu elements](https://www.fia.com/system/files/decision-document/2026_mexico_city_grand_prix_-_infringement_-_car_77_-_pu_elements.pdf) （正文 2112 字）
+- [2026 mexico city grand prix - summons - audi - alleged release of car 98 in an unsafe condition](https://www.fia.com/system/files/decision-document/2026_mexico_city_grand_prix_-_summons_-_audi_-_alleged_release_of_car_98_in_an_unsafe_condition.pdf) （正文 852 字）
+- [2026 mexico city grand prix - new pu elements for this competition](https://www.fia.com/system/files/decision-document/2026_mexico_city_grand_prix_-_new_pu_elements_for_this_competition.pdf) （正文 4657 字）
+- [2026 mexico city grand prix - car presentation submissions](https://www.fia.com/system/files/decision-document/2026_mexico_city_grand_prix_-_car_presentation_submissions.pdf) （正文 8081 字）
+- [2026 mexico city grand prix - entry list](https://www.fia.com/system/files/decision-document/2026_mexico_city_grand_prix_-_entry_list.pdf) （正文 5139 字）
+- [2026 mexico city grand prix - self scrutineering](https://www.fia.com/system/files/decision-document/2026_mexico_city_grand_prix_-_self_scrutineering.pdf) （正文 1563 字）
+- [2026 mexico city grand prix - pu elements used per driver up to now](https://www.fia.com/system/files/decision-document/2026_mexico_city_grand_prix_-_pu_elements_used_per_driver_up_to_now.pdf) （正文 3696 字）
+- [2026 mexico city grand prix - race directors competition notes](https://www.fia.com/system/files/decision-document/2026_mexico_city_grand_prix_-_race_directors_competition_notes.pdf) （正文 16640 字）
+- [2026 mexico city grand prix - competition notes - circuit map pit lane drawing and emergency exits map](https://www.fia.com/system/files/decision-document/2026_mexico_city_grand_prix_-_competition_notes_-_circuit_map_pit_lane_drawing_and_emergency_exits_map.pdf) （正文 23988 字）
+- [2026 mexico city grand prix - power unit information](https://www.fia.com/system/files/decision-document/2026_mexico_city_grand_prix_-_power_unit_information.pdf) （正文 7542 字）
+- [2026 mexico city grand prix - car display procedure](https://www.fia.com/system/files/decision-document/2026_mexico_city_grand_prix_-_car_display_procedure.pdf) （正文 2339 字）
+- [2026 mexico city grand prix - timetable v2](https://www.fia.com/system/files/decision-document/2026_mexico_city_grand_prix_-_timetable_v2.pdf) （正文 11784 字）
+- [2026 mexico city grand prix - post-race inspections on car number 63 2026 united states gp](https://www.fia.com/system/files/decision-document/2026_mexico_city_grand_prix_-_post-race_inspections_on_car_number_63_2026_united_states_gp.pdf) （正文 884 字）
+- [2026 mexico city grand prix - competition notes - pirelli preview](https://www.fia.com/system/files/decision-document/2026_mexico_city_grand_prix_-_competition_notes_-_pirelli_preview.pdf) （正文 7272 字）
+- [2026 mexico city grand prix - competition visa](https://www.fia.com/system/files/decision-document/2026_mexico_city_grand_prix_-_competition_visa.pdf) （正文 17651 字）
 
 ## motorsport
 
-- [Pierre Gasly and Franco Colapinto penalised post-race, Ryo Hirakawa scores on F1 debut at Mexico GP](https://www.motorsport.com/f1/news/pierre-gasly-and-franco-colapinto-penalised-post-race-ryo-hirakawa-scores-on-f1-debut/10870860/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www) 
-- [Isack Hadjar defends Mexican GP paddock incident after FIA warning: "Not a reality show"](https://www.motorsport.com/f1/news/isack-hadjar-defends-mexican-gp-paddock-incident-after-fia-warning-not-a-reality-show/10870360/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www) 
-- [Ryo Hirakawa could have "easily" made Q2 in F1 Mexico GP without late traffic](https://www.motorsport.com/f1/news/hirakawa-could-have-easily-made-q2-in-f1-mexico-gp-without-late-traffic/10870356/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www) 
-- [F1 Mexico GP: Sunday schedule, weather forecast and how to watch](https://www.motorsport.com/f1/news/f1-mexico-gp-sunday-schedule-weather-forecast-and-how-to-watch/10870318/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www) 
-- ["Up there for pole": Max Verstappen rues Turn 13 traffic in F1 Mexico GP qualifying](https://www.motorsport.com/f1/news/up-there-for-pole-verstappen-rues-turn-13-traffic-in-f1-mexico-gp-qualifying/10870339/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www) 
-- [Esteban Ocon issues statement after Haas benching, denies physical altercation rumours](https://www.motorsport.com/f1/news/esteban-ocon-issues-statement-after-haas-benching-denies-physical-altercation-rumours/10870336/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www) 
-- [Lewis Hamilton "lost for words" after ending three-year F1 pole drought at Mexican GP](https://www.motorsport.com/f1/news/lewis-hamilton-lost-for-words-after-ending-three-year-f1-pole-drought-at-mexican-gp/10870309/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www) 
-- [Lewis Hamilton buoyed by historic first Ferrari F1 pole: "I still love what I do"](https://www.motorsport.com/f1/news/lewis-hamilton-buoyant-by-historic-first-ferrari-f1-pole-i-still-love-what-i-do/10870304/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www) 
-- [2026 F1 Mexico Grand Prix starting grid](https://www.motorsport.com/f1/news/2026-f1-mexico-grand-prix-starting-grid/10870302/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www) 
-- [F1 Mexico GP: Lewis Hamilton beats George Russell and Charles Leclerc to pole](https://www.motorsport.com/f1/news/f1-mexico-gp-quali-report/10870286/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www) 
-- [Max Verstappen will have no say in 2027 Racing Bulls driver line-up, says Red Bull boss](https://www.motorsport.com/f1/news/max-verstappen-will-have-no-say-in-2027-racing-bulls-driver-line-up-says-red-bull-boss/10870282/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www) 
-- [F1 Mexico GP: Lando Norris tops final practice by 0.001s from Kimi Antonelli](https://www.motorsport.com/f1/news/f1-mexico-gp-fp3-report/10870217/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www) 
-- [When Red Bull expects to start using its long-awaited new F1 wind tunnel](https://www.motorsport.com/f1/news/when-red-bull-expects-to-start-using-its-long-awaited-new-f1-wind-tunnel/10870210/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www) 
-- [Isack Hadjar formally warned for fan incident in F1 Mexico GP paddock](https://www.motorsport.com/f1/news/isack-hadjar-warned-for-fan-incident-in-f1-mexico-gp-paddock/10870033/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www) 
-- [Mercedes out of performance window at Mexico GP - George Russell](https://www.motorsport.com/f1/news/george-russell-mercedes-out-of-performance-window-at-mexico-gp/10870173/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www) 
-- [Haas drops Esteban Ocon for F1 Mexico GP](https://www.motorsport.com/f1/news/haas-drops-esteban-ocon-for-f1-mexico-gp/10870158/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www) 
-- [Ferrari downplays expectations for F1 Mexico GP despite blistering Friday](https://www.motorsport.com/f1/news/fred-vasseur-downplays-expectations-for-f1-mexico-gp-despite-blistering-friday/10870125/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www) 
-- [George Russell tips Frederik Vesti for F1 2027 Cadillac seat](https://www.motorsport.com/f1/news/george-russell-frederik-vesti-deserves-cadillac-seat-for-f1-2027/10870111/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www) 
-- [Red Bull finds ‘disconnect’ in RB22 in F1 Mexico GP practice](https://www.motorsport.com/f1/news/red-bull-finds-disconnect-in-rb22-in-f1-mexico-gp-practice/10870035/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www) 
-- [Lewis Hamilton "praying" for Ferrari power unit after Mexico FP2 failure](https://www.motorsport.com/f1/news/lewis-hamilton-praying-for-ferrari-power-unit-after-mexico-fp2-failure/10870069/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www) 
+- [Penalty drops Oscar Piastri out of F1 Mexico GP points](https://www.motorsport.com/f1/news/penalty-drops-oscar-piastri-out-of-f1-mexico-gp-points/10870856/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www) 
 
 ## team-mercedes
 
-- [Team announces intention to use sustainable carbon fibre on w16 in](https://www.mercedesamgf1.com/news/team-announces-intention-to-use-sustainable-carbon-fibre-on-w16-in-2025) 
-- [F1 drive to survive season 7 what to expect from mercedes](https://www.mercedesamgf1.com/news/f1-drive-to-survive-season-7-what-to-expect-from-mercedes) 
-- [Sim work imsa and an ironman fred vestis 2025 diary](https://www.mercedesamgf1.com/news/sim-work-imsa-and-an-ironman-fred-vestis-2025-diary) 
-- [How well do you know the 2025 f1 calendar](https://www.mercedesamgf1.com/news/how-well-do-you-know-the-2025-f1-calendar) 
-- [Revealed dorianes 2025 f1 academy livery](https://www.mercedesamgf1.com/news/revealed-dorianes-2025-f1-academy-livery) 
-- [Mous joins forces with mercedes amg petronas f1 team as official supplier](https://www.mercedesamgf1.com/news/mous-joins-forces-with-mercedes-amg-petronas-f1-team-as-official-supplier) 
-- [F1 testing a positive start to](https://www.mercedesamgf1.com/news/f1-testing-a-positive-start-to-2025) 
-- [F1 testing 2025 everything you need to know](https://www.mercedesamgf1.com/news/f1-testing-2025-everything-you-need-to-know) 
+- [2025 monaco gp f1 akkodis race debrief](https://www.mercedesamgf1.com/news/2025-monaco-gp-f1-akkodis-race-debrief) 
+- [My racing and professional life everything started in barcelona](https://www.mercedesamgf1.com/news/my-racing-and-professional-life-everything-started-in-barcelona) 
+- [Why spain is the best grand prix on the f1 calendar](https://www.mercedesamgf1.com/news/why-spain-is-the-best-grand-prix-on-the-f1-calendar) 
+- [Totos spain preview focus is on ourselves](https://www.mercedesamgf1.com/news/totos-spain-preview-focus-is-on-ourselves) 
+- [Tough saturday on the streets of monaco](https://www.mercedesamgf1.com/news/tough-saturday-on-the-streets-of-monaco) 
+- [Get involved play our 2025 spanish gp predictor games and quiz](https://www.mercedesamgf1.com/news/get-involved-play-our-2025-spanish-gp-predictor-games-and-quiz) 
+- [In pictures the best images from monaco](https://www.mercedesamgf1.com/news/in-pictures-the-best-images-from-monaco-2025) 
+- [Traffic jams and red flags limiting factors on opening day in monaco](https://www.mercedesamgf1.com/news/traffic-jams-and-red-flags-limiting-factors-on-opening-day-in-monaco) 
 
 ## team-astonmartin
 
-- [Aston martin aramco and pepperstone extend partnership](https://www.astonmartinf1.com/en-GB/news/announcement/aston-martin-aramco-and-pepperstone-extend-partnership) 
-- [A day in the life with a driver in the loop](https://www.astonmartinf1.com/en-GB/news/feature/a-day-in-the-life-with-a-driver-in-the-loop) 
-- [Inside i am austin rounding up race week in the heart of the city](https://www.astonmartinf1.com/en-GB/news/feature/inside-i-am-austin-rounding-up-race-week-in-the-heart-of-the-city) 
-- [I am austin for the new generation of fans](https://www.astonmartinf1.com/en-GB/news/feature/i-am-austin-for-the-new-generation-of-fans) 
-- [Glenfiddichs car in a bottle arrives at kings cross station](https://www.astonmartinf1.com/en-GB/news/feature/glenfiddichs-car-in-a-bottle-arrives-at-kings-cross-station) 
-- [Perspectives thea hayden and david ingham](https://www.astonmartinf1.com/en-GB/news/feature/perspectives-thea-hayden-and-david-ingham) 
-- [Jak crawford to drive in fp1 at mexico city grand prix](https://www.astonmartinf1.com/en-GB/news/announcement/jak-crawford-to-drive-in-fp1-at-mexico-city-grand-prix) 
-- [Perspectives chris gibson](https://www.astonmartinf1.com/en-GB/news/feature/perspectives-chris-gibson) 
+- [Aston martin aramco welcomes boxbox as official partner](https://www.astonmartinf1.com/en-GB/news/announcement/aston-martin-aramco-welcomes-boxbox-as-official-partner) 
+- [Aston martin aramco and cognizant celebrate five year partnership with special livery](https://www.astonmartinf1.com/en-GB/news/announcement/aston-martin-aramco-and-cognizant-celebrate-five-year-partnership-with-special-livery) 
+- [How atlas air helped move our car from singapore to austin](https://www.astonmartinf1.com/en-GB/news/feature/how-atlas-air-helped-move-our-car-from-singapore-to-austin) 
+- [A beginners guide to f1 academy](https://www.astonmartinf1.com/en-GB/news/feature/a-beginners-guide-to-f1-academy) 
+- [Aston martin aramco collaborate with padeltek](https://www.astonmartinf1.com/en-GB/news/announcement/aston-martin-aramco-collaborate-with-padeltek) 
+- [Aston martin aramcos technical partner honda reaches milestone of 500 f1 races](https://www.astonmartinf1.com/en-GB/news/announcement/aston-martin-aramcos-technical-partner-honda-reaches-milestone-of-500-f1-races) 
+- [Inside the amr network in singapore built to evolve](https://www.astonmartinf1.com/en-GB/news/feature/inside-the-amr-network-in-singapore-built-to-evolve) 
+- [Inside the amr network in singapore the race to make better decisions](https://www.astonmartinf1.com/en-GB/news/feature/inside-the-amr-network-in-singapore-the-race-to-make-better-decisions) 
 
 ## team-williams
 
-- [Reporte p14 y p15 en el gp de ciudad de mexico](https://www.williamsf1.com/articles/47fbc7e3-e50c-4149-a300-71a6adfbf721/reporte-p14-y-p15-en-el-gp-de-ciudad-de-mexico) 
-- [Report mexico city grand prix](https://www.williamsf1.com/articles/bceb87e7-8ac1-441e-8355-577fed6185c3/report-mexico-city-grand-prix-2026) 
-- [Envia una pregunta para the vowles verdict tras el gp de ciudad de mexico](https://www.williamsf1.com/articles/c554467d-99d3-4533-a767-070f36ecd914/envia-una-pregunta-para-the-vowles-verdict-tras-el-gp-de-ciudad-de-mexico) 
-- [Submit a question for the vowles verdict after the mexico city gp](https://www.williamsf1.com/articles/4ad9eb23-7838-4fd2-a762-5a679a6907e0/submit-a-question-for-the-vowles-verdict-after-the-mexico-city-gp) 
-- [Report mexico city saturday](https://www.williamsf1.com/articles/1eb4aafa-732a-4e0b-bb48-279171509456/report-mexico-city-saturday-2026) 
-- [Reporte finaliza la clasificacion en ciudad de mexico](https://www.williamsf1.com/articles/cb15ce0f-4734-41b8-8c90-dbd89ee0ecba/reporte-finaliza-la-clasificacion-en-ciudad-de-mexico) 
-- [Reporte carlos alex y luke dan inicio a nuestro fin de semana en mexico](https://www.williamsf1.com/articles/103c0167-c78b-477a-8817-310e341143fd/reporte-carlos-alex-y-luke-dan-inicio-a-nuestro-fin-de-semana-en-mexico) 
-- [Report mexico city friday](https://www.williamsf1.com/articles/5d5a6741-b0db-4f95-8f85-92d2e821968c/report-mexico-city-friday-2026) 
+- [The mexico city gp watchlist](https://www.williamsf1.com/articles/a4a410d8-e00d-4bdb-b18e-0a1ae6c410c8/the-mexico-city-gp-watchlist) 
+- [Lo que no te puedes perder del gp de ciudad de mexico](https://www.williamsf1.com/articles/6855498b-b535-472d-8515-3c724dc0e436/lo-que-no-te-puedes-perder-del-gp-de-ciudad-de-mexico) 
+- [Carlos and alex preview round 19 in mexico city](https://www.williamsf1.com/articles/58c6726b-22b6-4fe3-a0b1-145cf1d91e14/carlos-and-alex-preview-round-19-in-mexico-city) 
+- [Carlos y alex analizan la previa de la 19 a ronda en ciudad de mexico](https://www.williamsf1.com/articles/edb2d4bf-b214-49f2-8861-676ad4d7a004/carlos-y-alex-analizan-la-previa-de-la-19-a-ronda-en-ciudad-de-mexico) 
+- [Las entradas para w50 live ya estan a la venta](https://www.williamsf1.com/articles/b6150349-b094-4210-8831-627fa8da1987/las-entradas-para-w50-live-ya-estan-a-la-venta) 
+- [Tickets for w50 live are on sale now](https://www.williamsf1.com/articles/f95fb5b9-d373-4cac-a007-2ffdcde519d0/tickets-for-w50-live-are-on-sale-now) 
+- [Detras de la insignia ciudad de mexico](https://www.williamsf1.com/articles/64087bd2-75cf-4c15-a976-52252f2cd762/detras-de-la-insignia-ciudad-de-mexico-2026) 
+- [Behind the badge mexico city](https://www.williamsf1.com/articles/b7c13e35-cc1a-445d-a3cf-5587245ac6ca/behind-the-badge-mexico-city-2026) 
 
 ## team-haas
 
-- [Mexico city grand prix race recap 4](https://www.haasf1team.com/news/mexico-city-grand-prix-race-recap-4) 
-- [Mexico city grand prix qualifying recap 4](https://www.haasf1team.com/news/mexico-city-grand-prix-qualifying-recap-4) 
-- [Team statement driver update](https://www.haasf1team.com/news/team-statement-driver-update) 
-- [Mexico city grand prix practice recap 1](https://www.haasf1team.com/news/mexico-city-grand-prix-practice-recap-1) 
-- [Formula 1 publishes first sport wide social impact report and renews ps24 million engineering](https://www.haasf1team.com/news/formula-1-publishes-first-sport-wide-social-impact-report-and-renews-ps24-million-engineering) 
-- [Mexico city grand prix race preview 1](https://www.haasf1team.com/news/mexico-city-grand-prix-race-preview-1) 
-- [United states grand prix race reap](https://www.haasf1team.com/news/united-states-grand-prix-race-reap) 
-- [United states grand prix qualifying recap 3](https://www.haasf1team.com/news/united-states-grand-prix-qualifying-recap-3) 
+- [United states grand prix practice recap 0](https://www.haasf1team.com/news/united-states-grand-prix-practice-recap-0) 
+- [Tgr haas f1 team announces multi year cybersecurity partnership tenexai ahead united states](https://www.haasf1team.com/news/tgr-haas-f1-team-announces-multi-year-cybersecurity-partnership-tenexai-ahead-united-states) 
+- [Tgr haas f1 team and dynamo capital announce multi year partnership ahead united states grand](https://www.haasf1team.com/news/tgr-haas-f1-team-and-dynamo-capital-announce-multi-year-partnership-ahead-united-states-grand) 
+- [United states grand prix race preview 1](https://www.haasf1team.com/news/united-states-grand-prix-race-preview-1) 
+- [Tgr haas f1 team and apple tv celebrate united states grand prix special livery reveal and fan](https://www.haasf1team.com/news/tgr-haas-f1-team-and-apple-tv-celebrate-united-states-grand-prix-special-livery-reveal-and-fan) 
+- [Godzilla roar once more united states grand prix tgr haas f1 team and toho co ltd](https://www.haasf1team.com/news/godzilla-roar-once-more-united-states-grand-prix-tgr-haas-f1-team-and-toho-co-ltd) 
+- [Rafael camara confirmed tgr haas f1 team](https://www.haasf1team.com/news/rafael-camara-confirmed-tgr-haas-f1-team-2027) 
+- [Singapore grand prix race recap 7](https://www.haasf1team.com/news/singapore-grand-prix-race-recap-7) 
 
 ## team-redbull
 
-- [Alisha palmowski wins 2026 f1 academy title](https://www.redbullracing.com/int-en/alisha-palmowski-wins-2026-f1-academy-title) 
-- [Best overtakes team history](https://www.redbullracing.com/int-en/best-overtakes-team-history) 
-- [F1 academy austin livery](https://www.redbullracing.com/int-en/f1-academy-austin-livery-2026) 
-- [Talking bull miami grand prix](https://www.redbullracing.com/int-en/talking-bull-miami-grand-prix-2026) 
-- [Saddle up competition](https://www.redbullracing.com/int-en/saddle-up-competition) 
-- [Oracle red bull racing laurent mekies commit to future through](https://www.redbullracing.com/int-en/oracle-red-bull-racing-laurent-mekies-commit-to-future-through-2031) 
-- [Oracle](https://www.redbullracing.com/int-en/oracle) 
-- [Yeti](https://www.redbullracing.com/int-en/yeti) 
+- [Overtakes explained](https://www.redbullracing.com/int-en/overtakes-explained) 
+- [Red bull showrun zagreb fan experience](https://www.redbullracing.com/int-en/red-bull-showrun-zagreb-fan-experience) 
+- [Top 10 influential f1 pit stops](https://www.redbullracing.com/int-en/top-10-influential-f1-pit-stops) 
+- [Atlanta showrun fan experience](https://www.redbullracing.com/int-en/atlanta-showrun-fan-experience) 
+- [Max vs 100 fan point of view](https://www.redbullracing.com/int-en/max-vs-100-fan-point-of-view) 
+- [Memento exclusives collaboration extension](https://www.redbullracing.com/int-en/memento-exclusives-collaboration-extension-2026) 
+- [Pit stops explained](https://www.redbullracing.com/int-en/pit-stops-explained) 
+- [Luna madrid grand prix best seats experience](https://www.redbullracing.com/int-en/luna-madrid-grand-prix-best-seats-experience) 
 
 ## team-racingbulls
 
-- [2025 f1 academy round 7 las vegas](https://www.visacashapprb.com/int-en/2025-f1-academy-round-7-las-vegas) 
-- [Las vegas grand prix 2025 debrief](https://www.visacashapprb.com/int-en/las-vegas-grand-prix-2025-debrief) 
-- [2025 las vegas grand prix quiz](https://www.visacashapprb.com/int-en/2025-las-vegas-grand-prix-quiz) 
-- [Las vegas grand prix 2025 culture guide](https://www.visacashapprb.com/int-en/las-vegas-grand-prix-2025-culture-guide) 
-- [2025 dear vcarb](https://www.visacashapprb.com/int-en/2025-dear-vcarb) 
-- [Our creators are bringing street art to brazil](https://www.visacashapprb.com/int-en/our-creators-are-bringing-street-art-to-brazil) 
-- [2026 season launch creator platform photographer](https://www.visacashapprb.com/int-en/2026-season-launch-creator-platform-photographer) 
-- [2026 season launch save the date](https://www.visacashapprb.com/int-en/2026-season-launch-save-the-date) 
+- [2025 sao paulo grand prix quiz](https://www.visacashapprb.com/int-en/2025-sao-paulo-grand-prix-quiz) 
+- [Sao paulo grand prix 2025 debrief](https://www.visacashapprb.com/int-en/sao-paulo-grand-prix-2025-debrief) 
+- [Sao paulo grand prix 2025 culture guide](https://www.visacashapprb.com/int-en/sao-paulo-grand-prix-2025-culture-guide) 
+- [Mexico city grand prix 2025 debrief](https://www.visacashapprb.com/int-en/mexico-city-grand-prix-2025-debrief) 
+- [2025 mexico city grand prix quiz](https://www.visacashapprb.com/int-en/2025-mexico-city-grand-prix-quiz) 
+- [Austin 2025 fan competiton winners](https://www.visacashapprb.com/int-en/austin-2025-fan-competiton-winners) 
+- [Creator platform drew day austin](https://www.visacashapprb.com/int-en/creator-platform-drew-day-austin-2025) 
+- [Mexico city grand prix 2025 culture guide](https://www.visacashapprb.com/int-en/mexico-city-grand-prix-2025-culture-guide) 
 
 ## team-audi
 
-- [Grand stage for the audi rs 5 at the formula 1 race in singapore](https://www.audi.com/en/media-releases/grand-stage-for-the-audi-rs-5-at-the-formula-1-race-in-singapore-18367) 
-- [Audi rs 5 to debut as hot lap car at formula 1 miami grand prix](https://www.audi.com/en/media-releases/audi-rs-5-to-debut-as-hot-lap-car-at-formula-1-miami-grand-prix-17115) 
-- [Audi selects sauber as strategic partner for formula 1 entry](https://www.audi.com/en/media-releases/audi-selects-sauber-as-strategic-partner-for-formula-1-entry-14981) 
-- [Audi enters formula 1](https://www.audi.com/en/media-releases/audi-enters-formula-1-14876) 
-- [Audi presents formula 1 project in china](https://www.audi.com/en/media-releases/audi-presents-formula-1-project-in-china-15290) 
-- [Simulator driver for development of audis formula 1 power unit signed](https://www.audi.com/en/media-releases/simulator-driver-for-development-of-audis-formula-1-power-unit-signed-15421) 
-- [Development of the audi power unit for formula 1 significant milestones and goals achieved](https://www.audi.com/en/media-releases/development-of-the-audi-power-unit-for-formula-1-significant-milestones-and-goals-achieved-16078) 
-- [Audi and bp team up with strategic partnership for formula 1](https://www.audi.com/en/media-releases/audi-and-bp-team-up-with-strategic-partnership-for-formula-1-16103) 
+- [Gabriel bortoleto will be future audi f1 driver](https://www.audi.com/en/media-releases/gabriel-bortoleto-will-be-future-audi-f1-driver-16325) 
+- [Audi f1 project strengthened by investment from qia](https://www.audi.com/en/media-releases/audi-f1-project-strengthened-by-investment-from-qia-16415) 
+- [Audi centralizes responsibilities in formula 1 project](https://www.audi.com/en/media-releases/audi-centralizes-responsibilities-in-formula-1-project-16624) 
+- [Revolut becomes title partner of the future audi f1 team](https://www.audi.com/en/media-releases/revolut-becomes-title-partner-of-the-future-audi-f1-team-16752) 
+- [Four rings and three stripes adidas becomes official partner of the future audi formula 1 team](https://www.audi.com/en/media-releases/four-rings-and-three-stripes-adidas-becomes-official-partner-of-the-future-audi-formula-1-team-16854) 
+- [For audi entering formula 1 is part of something bigger](https://www.audi.com/en/media-releases/for-audi-entering-formula-1-is-part-of-something-bigger-16909) 
+- [Audi unveils design for formula 1](https://www.audi.com/en/media-releases/audi-unveils-design-for-formula-1-16891) 
+- [Visit qatar welcomed by the future audi f1 team as a new principal partner](https://www.audi.com/en/media-releases/visit-qatar-welcomed-by-the-future-audi-f1-team-as-a-new-principal-partner-16923) 
 
 ## team-alpine
 
-- [Grand prix de mexico de formule 1 2026 dimanche](https://media.alpinecars.com/grand-prix-de-mexico-de-formule-1-2026-dimanche/) 
-- [2026 formula one mexico city grand prix sunday](https://media.alpinecars.com/2026-formula-one-mexico-city-grand-prix-sunday/) 
-- [Grand prix de mexico de formule 1 2026 samedi](https://media.alpinecars.com/grand-prix-de-mexico-de-formule-1-2026-samedi/) 
-- [2026 formula one mexico city grand prix saturday](https://media.alpinecars.com/2026-formula-one-mexico-city-grand-prix-saturday/) 
-- [Grand prix de mexico de formule 1 2026 vendredi](https://media.alpinecars.com/grand-prix-de-mexico-de-formule-1-2026-vendredi/) 
-- [2026 formula one mexico city grand prix friday](https://media.alpinecars.com/2026-formula-one-mexico-city-grand-prix-friday/) 
-- [Presentation du grand prix de mexico de formule 1](https://media.alpinecars.com/presentation-du-grand-prix-de-mexico-de-formule-1-2026/) 
-- [2026 formula one mexico city grand prix preview](https://media.alpinecars.com/2026-formula-one-mexico-city-grand-prix-preview/) 
+- [2026 formula one united states grand prix sunday](https://media.alpinecars.com/2026-formula-one-united-states-grand-prix-sunday/) 
+- [Grand prix des etats unis de formule 1 2026 dimanche](https://media.alpinecars.com/grand-prix-des-etats-unis-de-formule-1-2026-dimanche/) 
+- [Grand prix des etats unis de formule 1 2026 samedi](https://media.alpinecars.com/grand-prix-des-etats-unis-de-formule-1-2026-samedi/) 
+- [2026 formula one united states grand prix saturday](https://media.alpinecars.com/2026-formula-one-united-states-grand-prix-saturday/) 
+- [Grand prix des etats unis de formule 1 2026 vendredi](https://media.alpinecars.com/grand-prix-des-etats-unis-de-formule-1-2026-vendredi/) 
+- [2026 formula one united states grand prix friday](https://media.alpinecars.com/2026-formula-one-united-states-grand-prix-friday/) 
+- [Presentation du grand prix des etats unis de formule 1](https://media.alpinecars.com/presentation-du-grand-prix-des-etats-unis-de-formule-1-2026/) 
+- [2026 formula one united states grand prix preview](https://media.alpinecars.com/2026-formula-one-united-states-grand-prix-preview/) 
 
 > 由 collect.py 自动生成。PDF 原文在 archive/日期/ 下。

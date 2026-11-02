@@ -1,0 +1,68 @@
+# 2026 mexico city grand prix - car display procedure
+
+- 来源：fia-decisions
+- 链接：https://www.fia.com/system/files/decision-document/2026_mexico_city_grand_prix_-_car_display_procedure.pdf
+- 采集时间：2026-11-02 10:20
+- 本地文件：archive/2026-11-02/fia-decisions/2026-mexico-city-grand-prix---car-display-procedure.pdf
+
+---
+
+2026 MEXICO CITY GRAND PRIX
+                                      30 October - 01 November
+
+
+From       The FIA Formula 1 Media Delegate                      Document   5
+To         All Teams, All Officials                              Date       29 October 2026
+                                                                 Time       14:49
+
+
+Title        Car Display Procedure
+Description Car Display Procedure
+Enclosed     2026 Mexico City Grand Prix - Car Display Procedure.pdf
+
+
+
+Roman De Lauw
+
+The FIA Formula 1 Media Delegate
+                       2026 MEXICO CITY GRAND PRIX
+                                     30 October – 01 November 2026
+
+
+From           The FIA Formula 1 Media Delegate
+
+To             All Officials, All Teams                             Date           29 October 2026
+
+
+                          NOTE TO TEAMS: CAR DISPLAY PROCEDURE
+
+In addition to the requirements set out in Article B10.1.2a of the FIA F1 Regulations, please note the
+following procedures for the Car Presentation and Display at this Competition:
+
+Between 11:00 and 12:00 on Friday, one car from each team must be positioned in their pit stop
+position, with the other car positioned and available for viewing inside the garage. If only one car will
+carry the major aerodynamic and bodywork components and assemblies that have not been run at a
+previous Competition or TCC and are intended to be run at the Competition, this car must be the one
+displayed to media.
+
+The car outside the garage may be used for pit stop practice, but when no pit stop practice is
+taking place the car must return to the same position.
+
+In the case of adverse weather conditions, 5 minutes prior to the scheduled start of the car display all
+teams will be notified that the procedure may be conducted in the Competitors' designated garage area.
+At any Competition where it is raining during this presentation, we would ask you to leave the cars in
+position and use awnings.
+
+Any media wishing to take photographs must stay in the fast lane of the pit lane. For the avoidance
+of doubt this includes taking still images with professional cameras, mobile phones or any other device. TV
+Crews are allowed to shoot in the working lane of the pit lane.
+
+
+Roman De Lauw
+
+The FIA Formula 1 Media Delegate
+
+
+
+
+                                                    1
