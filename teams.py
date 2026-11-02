@@ -65,6 +65,7 @@ TEAM_SOURCES = [
         "limit": 8,
         "sitemap": "https://www.redbullracing.com/sitemap.xml",
         "include": r"/int-en/[^/]+/?$",
+        "min_slug": 12,
         "exclude": r"/(videos|races|galleries|team|newsletter|f1-academy|careers|esports|shop|tickets|partners|heritage|drivers|podcast-episodes)/",
     },
     {
@@ -74,6 +75,7 @@ TEAM_SOURCES = [
         "limit": 8,
         "sitemap": "https://www.visacashapprb.com/sitemap.xml",
         "include": r"/int-en/[^/]+/?$",
+        "min_slug": 12,
         "exclude": r"/(videos|races|galleries|team|newsletter|f1-academy|careers|esports|shop|tickets|partners|heritage|drivers)/",
     },
     {

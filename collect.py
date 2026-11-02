@@ -259,6 +259,10 @@ def parse_sitemap(src):
             continue
         if src.get("keyword") and not re.search(src["keyword"], url, re.I):
             continue
+        if src.get("min_slug"):
+            seg = urllib.parse.urlparse(url).path.rstrip("/").rsplit("/", 1)[-1]
+            if len(seg) < src["min_slug"]:
+                continue
         seen_local.add(url)
         items.append({"title": title_from_url(url), "url": url, "kind": "page", "date": lm})
     # 按 lastmod 倒序，保证最新的排前面
