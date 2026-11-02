@@ -7,13 +7,17 @@ on:
   schedule:
     # 每 4 小时一次（UTC）。大奖赛周末可临时调成 */2。
     - cron: "0 */4 * * *"
-  workflow_dispatch:        # 也可以在网页上手动点一下立即跑
+  push:
+    branches: [ main ]        # 你改完代码推上去就立刻跑一次
+  workflow_dispatch:          # 也可以在网页上手动点一下立即跑
 
 permissions:
   contents: write
 
 jobs:
   collect:
+    # 防止机器人自己的提交再次触发，形成死循环
+    if: github.event_name != 'push' || github.actor != 'github-actions[bot]'
     runs-on: ubuntu-latest
     timeout-minutes: 20
 
@@ -45,6 +49,6 @@ jobs:
           if git diff --staged --quiet; then
             echo "本轮无新增"
           else
-            git commit -m "collect: $(date -u +%Y-%m-%dT%H:%MZ)"
+            git commit -m "collect: $(date -u +%Y-%m-%dT%H:%MZ) [skip ci]"
             git push
           fi
