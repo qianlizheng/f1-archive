@@ -1,48 +1,48 @@
-# F1 素材摘要 · 2026-11-04 00:03
+# F1 素材摘要 · 2026-11-04 08:33
 
-
-## fia-news
-
-- [WEC: High speeds and high stakes in Monza season finale](https://www.fia.com/news/wec-high-speeds-and-high-stakes-monza-season-finale) 
-- [ICA decision-2026-10 – Hearing 14 10 26 – TEPZ Racing Team - 2026 Mondokart.com FIA Karting European Championship (Junior)](https://www.fia.com/news/ica-decision-2026-10-hearing-14-10-26-tepz-racing-team-2026-mondokartcom-fia-karting-european) 
-- [History to be Written as 2026 FIA Karting World Championships Decided in Italy](https://www.fia.com/news/history-be-written-2026-fia-karting-world-championships-decided-italy) 
 
 ## f1-latest
 
-- [F1’s youngest World Champions as Antonelli smashes record](https://www.formula1.com/en/latest/article/f1s-youngest-world-champions-as-antonelli-smashes-the-record.4otUr4h4wmWd6VmIEaNjzV) 
-- [Russell shares emotional reflection on 2026 in candid post](https://www.formula1.com/en/latest/article/russell-shares-emotional-reflection-as-he-admits-2026-was-not-meant-to-be-my-year.5WEyPpcLTknBF3ktFY4cNM) 
-- [The best images from Antonelli's title-winning celebrations](https://www.formula1.com/en/latest/article/gallery-the-best-images-from-antonellis-title-celebrations.3c1keK7GIQDiP4ylcXr6Ox) 
-- [Sao Paulo Grand Prix betting guide and latest odds](https://www.formula1.com/en/latest/article/sao-paulo-grand-prix-race-betting-guide-and-what-the-markets-expect-to-happen.3R5CCxfCtap5Fnb1hsQIhr) 
+- [The inside story of Lewis Hamilton’s first F1 test](https://www.formula1.com/en/latest/article/20-years-on-the-inside-story-of-lewis-hamiltons-first-f1-test-with-mclaren.52SbO6oNunu7mGcpWMV8U1) 
+- [The 5 drivers most likely to win in Sao Paulo](https://www.formula1.com/en/latest/article/the-5-drivers-most-likely-to-win-the-sao-paulo-grand-prix-according-to-the-betting-markets.4bzkRPAjDqrOZ9EH6cwwoB) 
+- [Camara to make F1 debut for Haas in Sao Paulo](https://www.formula1.com/en/latest/article/f2-racer-camara-to-make-f1-debut-at-sao-paulo-grand-prix-as-haas-confirm-ocon-will-not-return.12Qa0tpaMZ9kgnEuGJBKFp) 
+- [The incredible F1 legends' cars that sold at auction](https://www.formula1.com/en/latest/article/f1-legends-cars-that-sold-at-auction-after-sennas-honda-sells-for-over-1m.5IOJyw63yjGPZ0sHACG9AP) 
+- [What time is the 2026 Sao Paulo GP and how can I watch it?](https://www.formula1.com/en/latest/article/what-time-is-the-formula-1-2026-sao-paulo-grand-prix-and-how-can-i-watch-it.6hpbTPt6gucIHBH8QztPjb) 
+- [PALMER: What impressed me most in Antonelli’s title year](https://www.formula1.com/en/latest/article/the-key-moments-that-impressed-me-most-in-antonellis-title-campaign.37DKCZ2ntXn8PNuOtMFv8q) 
+- [Who impressed our Power Rankings judges in Mexico City?](https://www.formula1.com/en/latest/article/power-rankings-who-impressed-our-judges-at-the-mexico-city-grand-prix.2qjwPGUEuzu27Gnq24ggBU) 
+- [Lindblad offers verdict on Piastri collision in Mexico](https://www.formula1.com/en/latest/article/we-were-in-a-genuine-fight-lindblad-offers-verdict-on-piastri-collision-in-mexico-city-grand-prix.30FzCcOAR3jR8jti3SjN2e) 
 
 ## the-race
 
-- [The in-depth details behind Antonelli thumping Russell](https://www.the-race.com/formula-1/mercedes-f1-how-antonelli-demolished-russell-same-car/) 
-- [What time is F1's 2026 Brazilian Grand Prix? Full weekend schedule](https://www.the-race.com/formula-1/what-time-is-f1s-2026-brazilian-grand-prix-full-weekend-schedule/) 
-- [How a 'stupid' speed limit stopped Mexican GP overtaking](https://www.the-race.com/formula-1/the-stupid-speed-limit-that-neutered-mexican-gp-explained/) 
+- [Herta gets another Cadillac F1 practice to earn superlicence](https://www.the-race.com/formula-1/colton-herta-gets-another-cadillac-f1-practice-to-earn-superlicence/) 
+- [Haas drops Ocon for rest of 2026 F1 season](https://www.the-race.com/formula-1/haas-drops-ocon-for-rest-of-2026-f1-season/) 
+- [Dixon set to replace Mir in Qatar MotoGP round](https://www.the-race.com/motogp/honda-motogp-qatar-gp-lusail-joan-mir-jake-dixon/) 
 
 ## motorsport
 
-- [Marco Antonelli: "I saw the champion in Kimi after his Australia crash"](https://www.motorsport.com/f1/news/marco-antonelli-i-saw-the-champion-in-kimi-after-his-australia-crash/10871229/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www) 
-- [Why Honda’s power unit lasted barely five laps in F1 Mexico GP](https://www.motorsport.com/f1/news/why-hondas-power-unit-lasted-barely-five-laps-in-f1-mexico-gp/10871279/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www) 
-- [How Red Bull's crucial strategy call helped Max Verstappen win the "Maxico Grand Prix"](https://www.motorsport.com/f1/news/red-bulls-key-strategy-call-behind-max-verstappens-mexico-win-explained/10871128/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www) 
-- [Isack Hadjar blames himself for George Russell clash that “ruined” his Mexico GP](https://www.motorsport.com/f1/news/isack-hadjar-blames-himself-for-george-russell-clash-that-ruined-his-mexico-gp/10871223/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www) 
-- [Kimi Antonelli labels the "turning point" in F1 title-winning season](https://www.motorsport.com/f1/news/kimi-antonelli-labels-the-turning-point-in-f1-title-winning-season/10871066/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www) 
-- [Charles Leclerc blames Mexico GP clash on track layout - Fred Vasseur disagrees](https://www.motorsport.com/f1/news/charles-leclerc-blames-mexico-gp-clash-on-track-layout-fred-vasseur-disagrees/10871092/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www) 
+- [Andrea Stella explains how qualifying destroyed McLaren’s Mexico GP: “We paid the price”](https://www.motorsport.com/f1/news/stella-explains-how-a-nightmare-qualifying-destroyed-mclarens-mexico-gp-we-paid-the-price/10871257/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www) 
+- [Charles Leclerc brushes off Lewis Hamilton clash: “I could be unhappy too”](https://www.motorsport.com/f1/news/charles-leclerc-brushes-off-lap-1-clash-with-furious-hamilton-i-could-be-unhappy-too/10871246/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www) 
+- [Colton Herta to run Cadillac FP1 in Brazil as FIA superlicense quest continues](https://www.motorsport.com/f1/news/colton-herta-to-run-cadillac-fp1-in-brazil-as-fia-superlicense-quest-continues/10871403/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www) 
+- [Mercedes boss praises Antonelli’s masterclass while admitting they failed George Russell](https://www.motorsport.com/f1/news/mercedes-boss-praises-antonellis-masterclass-while-admitting-they-failed-george-russell/10871236/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www) 
+- [Rafa Camara to debut in F1 Brazil GP as Esteban Ocon out at Haas](https://www.motorsport.com/f1/news/camara-to-debut-in-f1-brazil-gp-as-ocon-out-at-haas/10871372/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www) 
+- [The 'difference' between Kimi Antonelli's F1 title and Lewis Hamilton's according to Toto Wolff](https://www.motorsport.com/f1/news/the-difference-between-kimi-antonellis-f1-title-and-lewis-hamiltons-according-to-toto-wolff/10871082/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www) 
+- [McLaren to introduce 2027 F1 front wing at Brazil GP](https://www.motorsport.com/f1/news/mclaren-to-introduce-2027-f1-front-wing-at-brazil-gp/10871326/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www) 
+- [Red Bull's rumoured €27million deal takes shape in leaked Max Verstappen shoot](https://www.motorsport.com/f1/news/leaked-photos-reveal-max-verstappen-sporting-adidas-gear-as-27m-red-bull-rumors-erupt/10871317/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www) 
+- [Isack Hadjar rues missed opportunity after George Russell clash at Mexico GP](https://www.motorsport.com/f1/news/isack-hadjar-rues-lost-mexico-city-pace-after-russells-turn-6-torpedo/10871234/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www) 
+
+## team-astonmartin
+
+- [Jensons journal entry 05](https://www.astonmartinf1.com/en-GB/news/feature/jensons-journal-entry-05) 
 
 ## team-williams
 
-- [Join our mini league in f1 fantasy for a chance to win williams prizes](https://www.williamsf1.com/articles/72e13e3c-7079-44b7-aefb-61941f91baca/join-our-mini-league-in-f1-fantasy-for-a-chance-to-win-williams-prizes) 
-- [Unete a nuestra miniliga de f1 fantasy y tendras la oportunidad de ganar premios de williams](https://www.williamsf1.com/articles/f986ca5f-11c3-4383-9c3e-f4b18e0e2d45/unete-a-nuestra-miniliga-de-f1-fantasy-y-tendras-la-oportunidad-de-ganar-premios-de-williams) 
-- [Que esperar de w50 live](https://www.williamsf1.com/articles/553b878c-b1d6-4148-8347-29ef87213657/que-esperar-de-w50-live) 
-- [What to expect from w50 live](https://www.williamsf1.com/articles/c810a396-690d-455a-8178-b7c640903c07/what-to-expect-from-w50-live) 
-- [Mi historia en williams](https://www.williamsf1.com/articles/d53ec0a2-ae43-4b4f-91d3-b717efa8cdfc/mi-historia-en-williams) 
-- [My williams story](https://www.williamsf1.com/articles/666e8c62-503a-4ac7-94ed-6808aa2224cc/my-williams-story-2026) 
-- [In photos jv gets in the texas spirit at our fan zone](https://www.williamsf1.com/articles/db42c4e3-ff1d-470c-8513-960b90beb1c6/in-photos-jv-gets-in-the-texas-spirit-at-our-fan-zone) 
-- [Reporte el fin de semana ya esta en marcha en austin](https://www.williamsf1.com/articles/8fbec90e-6600-48b9-8110-9a47c73d1f0e/reporte-el-fin-de-semana-ya-esta-en-marcha-en-austin) 
-
-## team-alpine
-
-- [Presentation du grand prix de sao paulo de formule 1](https://media.alpinecars.com/presentation-du-grand-prix-de-sao-paulo-de-formule-1-2026/) 
-- [2026 formula one sao paulo grand prix preview](https://media.alpinecars.com/2026-formula-one-sao-paulo-grand-prix-preview/) 
+- [What is the forecast for the sao paulo grand prix](https://www.williamsf1.com/articles/7d2e53e6-92c2-41d3-b321-7c758349c186/what-is-the-forecast-for-the-sao-paulo-grand-prix) 
+- [Cual es el pronostico para el gran premio de sao paulo](https://www.williamsf1.com/articles/d142ed5f-603b-4ff2-9d5e-ea0b0460abe5/cual-es-el-pronostico-para-el-gran-premio-de-sao-paulo) 
+- [Quiz get set for sao paulo](https://www.williamsf1.com/articles/54dbb77b-b4a3-4e0a-95b8-17156c3f3352/quiz-get-set-for-sao-paulo) 
+- [Report united states friday](https://www.williamsf1.com/articles/263c5641-5470-40d8-a53f-866f132c66d9/report-united-states-friday-2026) 
+- [Win one of our new york comic con marvel race suits](https://www.williamsf1.com/articles/4d86e125-cba4-4d25-ad55-9ae6cf780cf0/win-one-of-our-new-york-comic-con-marvel-race-suits) 
+- [Assemble alex and carlos bring a superhero style to fp1](https://www.williamsf1.com/articles/71cb8eb5-8afb-4934-a74a-20a093723d31/assemble-alex-and-carlos-bring-a-superhero-style-to-fp1) 
+- [A reunirse alex y carlos llevan el estilo de los superheroes a la fp1](https://www.williamsf1.com/articles/462d9763-5070-46f6-8137-3fe8239a7659/a-reunirse-alex-y-carlos-llevan-el-estilo-de-los-superheroes-a-la-fp1) 
+- [In photos alex meets the fans in austin](https://www.williamsf1.com/articles/d6d423bb-2ec8-426a-a113-1c761cb2754a/in-photos-alex-meets-the-fans-in-austin) 
 
 > 由 collect.py 自动生成。PDF 原文在 archive/日期/ 下。
