@@ -1,52 +1,69 @@
-# F1 素材摘要 · 2026-11-06 23:51
+# F1 素材摘要 · 2026-11-07 05:25
 
 
 ## fia-decisions
 
-- [2026 sao paulo grand prix - new pu elements for this competition](https://www.fia.com/system/files/decision-document/2026_sao_paulo_grand_prix_-_new_pu_elements_for_this_competition.pdf) （正文 1950 字）
-- [2026 sao paulo grand prix - entry list](https://www.fia.com/system/files/decision-document/2026_sao_paulo_grand_prix_-_entry_list.pdf) （正文 4596 字）
-- [2026 sao paulo grand prix - car presentation submissions](https://www.fia.com/system/files/decision-document/2026_sao_paulo_grand_prix_-_car_presentation_submissions.pdf) （正文 4638 字）
-- [2026 sao paulo grand prix - curfew](https://www.fia.com/system/files/decision-document/2026_sao_paulo_grand_prix_-_curfew.pdf) （正文 1086 字）
-- [2026 sao paulo grand prix - self scrutineering](https://www.fia.com/system/files/decision-document/2026_sao_paulo_grand_prix_-_self_scrutineering.pdf) （正文 1525 字）
-- [2026 sao paulo grand prix - pu elements used per driver up to now](https://www.fia.com/system/files/decision-document/2026_sao_paulo_grand_prix_-_pu_elements_used_per_driver_up_to_now.pdf) （正文 3687 字）
+- [2026 sao paulo grand prix - infringement - car 51 - unnecessarily impeding of car 16](https://www.fia.com/system/files/decision-document/2026_sao_paulo_grand_prix_-_infringement_-_car_51_-_unnecessarily_impeding_of_car_16.pdf) （正文 2364 字）
+- [2026 sao paulo grand prix - race director notes - sc2 - sc1 times](https://www.fia.com/system/files/decision-document/2026_sao_paulo_grand_prix_-_race_director_notes_-_sc2_-_sc1_times.pdf) （正文 748 字）
+- [2026 sao paulo grand prix - infringement - free practice 2 deleted lap times](https://www.fia.com/system/files/decision-document/2026_sao_paulo_grand_prix_-_infringement_-_free_practice_2_deleted_lap_times.pdf) （正文 3578 字）
+- [2026 sao paulo grand prix - free practice 2 classification](https://www.fia.com/system/files/decision-document/2026_sao_paulo_grand_prix_-_free_practice_2_classification.pdf) （正文 6183 字）
+- [2026 sao paulo grand prix - summons - car 16 - alleged impeding by car 51](https://www.fia.com/system/files/decision-document/2026_sao_paulo_grand_prix_-_summons_-_car_16_-_alleged_impeding_by_car_51.pdf) （正文 846 字）
+- [2026 sao paulo grand prix - summons - car 51 - alleged impeding of car 16](https://www.fia.com/system/files/decision-document/2026_sao_paulo_grand_prix_-_summons_-_car_51_-_alleged_impeding_of_car_16.pdf) （正文 848 字）
+- [2026 sao paulo grand prix - infringement - free practice 1 deleted lap times - double yellow](https://www.fia.com/system/files/decision-document/2026_sao_paulo_grand_prix_-_infringement_-_free_practice_1_deleted_lap_times_-_double_yellow.pdf) （正文 3020 字）
+- [2026 sao paulo grand prix - infringement - free practice 1 deleted lap times](https://www.fia.com/system/files/decision-document/2026_sao_paulo_grand_prix_-_infringement_-_free_practice_1_deleted_lap_times.pdf) （正文 3930 字）
+- [2026 sao paulo grand prix - free practice 1 classification](https://www.fia.com/system/files/decision-document/2026_sao_paulo_grand_prix_-_free_practice_1_classification.pdf) （正文 6385 字）
+- [2026 sao paulo grand prix - infringement - car 43 - pit lane speeding](https://www.fia.com/system/files/decision-document/2026_sao_paulo_grand_prix_-_infringement_-_car_43_-_pit_lane_speeding.pdf) （正文 1589 字）
+- [2026 sao paulo grand prix - infringement - car 63 - changes to pu element](https://www.fia.com/system/files/decision-document/2026_sao_paulo_grand_prix_-_infringement_-_car_63_-_changes_to_pu_element.pdf) （正文 1705 字）
 
 ## fia-news
 
-- [Revised Tapolca-based Hungarian Baja to draw the curtain on the 2026 FIA European Baja Cup season](https://www.fia.com/news/revised-tapolca-based-hungarian-baja-draw-curtain-2026-fia-european-baja-cup-season) 
-- [YANGWANG U9 Xtreme surpasses 500 km/h with speed achievement recognised by the FIA](https://www.fia.com/news/yangwang-u9-xtreme-surpasses-500-kmh-speed-achievement-recognised-fia) 
+- [F1 – Antonelli leads Norris and Verstappen in São Paulo FP2](https://www.fia.com/news/f1-antonelli-leads-norris-and-verstappen-sao-paulo-fp2) 
+- [F1 – Norris leads Antonelli and Verstappen in São Paulo opening practice](https://www.fia.com/news/f1-norris-leads-antonelli-and-verstappen-sao-paulo-opening-practice) 
+- [F1 - 2026 São Paulo Grand Prix - Friday Press Conference Transcript](https://www.fia.com/news/f1-2026-sao-paulo-grand-prix-friday-press-conference-transcript) 
 
 ## f1-latest
 
-- [LIVE COVERAGE: First practice for the Sao Paulo GP red-flagged](https://www.formula1.com/en/latest/article/live-coverage-first-practice-in-brazil-2026.CYzUtCJCISC6hBcDRrctB) 
-- [Russell set for grid penalty at Sao Paulo Grand Prix](https://www.formula1.com/en/latest/article/well-try-and-come-back-through-russell-set-for-grid-penalty-at-sao-paulo-grand-prix.6hsUcdvDTFFezGL53SAODZ) 
-- [Bearman doesn’t see Camara’s debut ‘as a shoot-out’](https://www.formula1.com/en/latest/article/eyes-are-going-to-be-on-us-bearman-declares-he-doesnt-see-camaras-debut-as-a-shoot-out.3KzdtXT52S9iQVC3ifgoYb) 
-- [Which rookies are getting FP1 outings in Brazil?](https://www.formula1.com/en/latest/article/which-rookie-drivers-are-getting-fp1-outings-at-the-sao-paulo-grand-prix.3DAnL1BS38Gu5KKzU70aBJ) 
-- [Alan Permane handed Racing Bulls Team Principal renewal](https://www.formula1.com/en/latest/article/alan-permane-signs-deal-to-stay-as-racing-bulls-team-principal-through-to-2031.cuuzgpmUrpg3TLeF14TRy) 
-- [Piastri leads F1 community in tributes to Alan Jones](https://www.formula1.com/en/latest/article/a-life-that-should-be-celebrated-piastri-leads-tributes-to-alan-jones-after-f1-champion-passes-away.7KCspK6xXT5mgKjUOyPu0f) 
+- [‘Ferrari comes first’ – Vasseur confirms Hamilton/Leclerc talks](https://www.formula1.com/en/latest/article/im-not-asking-them-to-be-best-friends-vasseur-confirms-hamilton-and-leclerc-talks-after-mexico-battle.4ijCE2voRopz229owYCphO) 
+- [Komatsu on why fast-tracking Camara was a ‘tough decision’](https://www.formula1.com/en/latest/article/komatsu-explains-why-fast-tracking-camara-into-haas-seat-was-a-tough-decision-after-hirakawa-performance.6N8NbSuekc1oGCylHgVZ2g) 
+- [Antonelli tops the times from Norris in Sao Paulo FP2](https://www.formula1.com/en/latest/article/fp2-antonelli-tops-the-times-from-norris-in-second-practice-at-sao-paulo-gp.27XFbTG9Lji18qmtHbCJUA) 
+- [AS IT HAPPENED: Second practice in Sao Paulo](https://www.formula1.com/en/latest/article/live-coverage-second-practice-in-brazil-2026.55F7KTtVUfyntiKo9q9nhn) 
+- [Camara looking to learn from Bearman on surprise F1 debut](https://www.formula1.com/en/latest/article/camara-looking-to-learn-from-bearman-on-surprise-f1-debut-in-brazil.5d47nAelIarNkqGhVsTedK) 
+- [Norris leads Antonelli and Verstappen in Sao Paulo FP1](https://www.formula1.com/en/latest/article/fp1-norris-leads-antonelli-and-verstappen-in-opening-sao-paulo-gp-practice-session.3GXL3rAROwHsLxnxn9hReY) 
 
 ## the-race
 
-- [What's really happening with Cadillac F1 buyout talks](https://www.the-race.com/business/cadillac-f1-buyout-talks-what-is-really-happening/) 
-- [McLaren's 2027 F1 front wing breaks cover in Brazil](https://www.the-race.com/formula-1/mclaren-2027-f1-front-wing-breaks-cover-in-brazil/) 
-- [Marquez quickest as Qatar MotoGP weekend kicks off](https://www.the-race.com/motogp/marquez-quickest-as-qatar-motogp-weekend-kicks-off/) 
-- [How much has bad luck really cost George Russell in F1 2026?](https://www.the-race.com/formula-1/how-much-has-bad-luck-really-cost-george-russell-in-f1-2026/) 
-- [Russell to take grid penalty at F1's Brazilian GP](https://www.the-race.com/formula-1/russell-serving-another-f1-engine-grid-penalty-in-brazil/) 
-- [Racing Bulls boss gets new contract - but where's Lawson's?](https://www.the-race.com/formula-1/whats-going-on-with-lawsons-blurry-f1-future/) 
-- [Every rookie to drive in FP1 in F1 2026](https://www.the-race.com/formula-1/every-rookie-to-drive-in-fp1-in-f1-2026/) 
-- [F1's revenue stabilises after cancelled 2026 grands prix](https://www.the-race.com/business/f1s-revenue-stabilises-after-cancelled-2026-grands-prix/) 
+- [Wolff backs MotoGP's handling of calendar dissent](https://www.the-race.com/formula-1/wolff-backs-motogps-handling-of-calendar-dissent/) 
+- [What happened in F1 2026 Brazilian GP second practice](https://www.the-race.com/formula-1/what-happened-in-f1-2026-brazilian-gp-second-practice/) 
+- [What we learned about Ferrari’s key Hamilton/Leclerc meeting](https://www.the-race.com/formula-1/what-we-learned-about-ferraris-hamilton-leclerc-meeting/) 
+- [Surprise Ducati pacesetter on Qatar MotoGP Friday](https://www.the-race.com/motogp/surprise-ducati-pace-setter-on-qatar-motogp-friday/) 
+- [What happened in first Brazil F1 practice](https://www.the-race.com/formula-1/what-happened-in-brazil-fp1-f1-sao-paulo/) 
+- [F1 2026 Brazilian Grand Prix practice results](https://www.the-race.com/formula-1/f1-2026-brazilian-grand-prix-practice-results/) 
 
 ## motorsport
 
-- ["Exhausted" George Russell set for Brazilian F1 grid penalty](https://www.motorsport.com/f1/news/exhausted-george-russell-set-for-brazil-f1-grid-penalty/10872130/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www) 
-- [Nico Rosberg compares Ferrari’s clashes to his own Mercedes F1 rivalry: “The instructions are not clear enough”](https://www.motorsport.com/f1/news/nico-rosberg-compares-ferraris-clashes-to-his-own-mercedes-f1-rivalry-the-instructions-are-not-clea/10872061/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www) 
-- [Carlos Sainz recalls Charles Leclerc battles: “We always managed to find a solution”](https://www.motorsport.com/f1/news/carlos-sainz-recalls-charles-leclerc-battles-we-always-managed-to-find-a-solution/10871952/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www) 
-- [Ferrari set for crunch meeting as Lewis Hamilton and Charles Leclerc tension reaches Brazil](https://www.motorsport.com/f1/news/ferrari-set-for-crunch-meeting-as-lewis-hamilton-and-charles-leclerc-tension-reaches-brazil/10872021/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www) 
-- [Kimi Antonelli: “My 2027 preparation starts now” after F1 title triumph](https://www.motorsport.com/f1/news/kimi-antonelli-my-2027-preparation-starts-now-after-f1-title-triumph/10871954/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www) 
-- [Alan Permane signs new Racing Bulls F1 deal](https://www.motorsport.com/f1/news/alan-permane-signs-new-racing-bulls-f1-deal/10871996/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www) 
+- [Why Toto Wolff sees Ferrari clash as "déjà vu" – and why escalation may be necessary](https://www.motorsport.com/f1/news/why-toto-wolff-sees-ferrari-clash-as-deja-vu-and-why-escalation-may-be-necessary/10872244/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www) 
+- [F1 Brazilian GP: Kimi Antonelli fastest in tricky FP2](https://www.motorsport.com/f1/news/f1-brazilian-gp-fp2-report-10872288/10872288/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www) 
+- [Kimi Antonelli reveals special gifts from Ayrton Senna's family ahead of F1 Brazilian GP](https://www.motorsport.com/f1/news/kimi-antonelli-reveals-special-gifts-from-ayrton-sennas-family-ahead-of-f1-brazilian-gp/10872198/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www) 
+- ["We failed so we had to react" - Fred Vasseur on Ferrari driver talks and Mexico F1 fallout](https://www.motorsport.com/f1/news/we-failed-so-we-had-to-react-fred-vasseur-on-ferrari-driver-talks-and-mexico-f1-fallout/10872240/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www) 
+- ["Unacceptable downshifts" – Max Verstappen explains what's behind a recurring F1 radio complaint](https://www.motorsport.com/f1/news/unacceptable-downshifts-max-verstappen-explains-whats-behind-a-recurring-f1-radio-complaint/10872196/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www) 
+- [F1 champion Kimi Antonelli plans special purchase after historic title win](https://www.motorsport.com/f1/news/f1-champion-kimi-antonelli-plans-special-purchase-after-historic-title-win/10872187/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www) 
+- [“Unfiltered” Lewis Hamilton is ready to exploit Charles Leclerc’s “silly” move, says Martin Brundle](https://www.motorsport.com/f1/news/unfiltered-hamilton-is-ready-to-exploit-leclercs-silly-move-says-martin-brundle/10872156/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www) 
+- [Colton Herta qualifies for F1 superlicence as Valtteri Bottas remains bullish on 2027 seat](https://www.motorsport.com/f1/news/colton-herta-qualifies-for-f1-superlicence-as-valtteri-bottas-remains-bullish-on-2027-seat/10872177/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www) 
+- [F1 Brazilian GP: Lando Norris tops FP1 as Colton Herta clinches superlicence](https://www.motorsport.com/f1/news/f1-brazilian-gp-fp1-report-10872160/10872160/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www) 
+- [Oscar Piastri pays tribute to Australian F1 legend Alan Jones following his death](https://www.motorsport.com/f1/news/oscar-piastri-pays-tribute-to-australian-f1-legend-alan-jones-following-his-death/10872171/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www) 
+- [George Russell breaks silence on Mexican GP media absence after Mercedes fine](https://www.motorsport.com/f1/news/george-russell-breaks-silence-on-mexican-gp-media-absence-after-mercedes-fine/10872146/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www) 
+
+## team-mercedes
+
+- [In pictures the best images from sao paulo](https://www.mercedesamgf1.com/news/in-pictures-the-best-images-from-sao-paulo-2026) 
 
 ## team-williams
 
-- [Atlassian williams f1 team sporting director on the demands of modern f1](https://www.williamsf1.com/articles/75928f43-8cc6-4313-a0ba-ecda067bc126/atlassian-williams-f1-team-sporting-director-on-the-demands-of-modern-f1) 
-- [Alex and carlos set their sights on sao paulo](https://www.williamsf1.com/articles/13da58d2-59ac-4bb8-82d4-e66be8f00928/alex-and-carlos-set-their-sights-on-sao-paulo) 
+- [Reporte el fin de semana ya esta en marcha en sao paulo](https://www.williamsf1.com/articles/554bd1c4-e322-4c87-85ec-353baa6c3c16/reporte-el-fin-de-semana-ya-esta-en-marcha-en-sao-paulo) 
+- [Report sao paulo friday](https://www.williamsf1.com/articles/0dc8a11c-151d-4a13-93d9-e1f87827ca7e/report-sao-paulo-friday-2026) 
+- [Win a carl friedrik grove bundle and race experience](https://www.williamsf1.com/articles/22513603-b826-4607-8953-2eacd8880e01/win-a-carl-friedrik-grove-bundle-and-race-experience) 
+- [Gana un conjunto grove de carl friedrik y una experiencia de carreras](https://www.williamsf1.com/articles/f42ede41-1d63-4ec4-a318-408cb5c9dccd/gana-un-conjunto-grove-de-carl-friedrik-y-una-experiencia-de-carreras) 
+- [Vowles el coche del proximo ano es fruto de un esfuerzo global](https://www.williamsf1.com/articles/c3d21594-b977-48b0-8ff1-41b5df720052/vowles-el-coche-del-proximo-ano-es-fruto-de-un-esfuerzo-global) 
+- [Vowles next years car is a global effort](https://www.williamsf1.com/articles/153a25b9-1295-4b6a-a816-1fe6e2d3e64b/vowles-next-years-car-is-a-global-effort) 
 
 > 由 collect.py 自动生成。PDF 原文在 archive/日期/ 下。
