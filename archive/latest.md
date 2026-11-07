@@ -1,49 +1,49 @@
-# F1 素材摘要 · 2026-11-07 22:51
+# F1 素材摘要 · 2026-11-08 04:06
 
 
 ## fia-decisions
 
-- [2026 sao paulo grand prix - new pu elements for this competition 0](https://www.fia.com/system/files/decision-document/2026_sao_paulo_grand_prix_-_new_pu_elements_for_this_competition_0.pdf) （正文 3915 字）
-- [2026 sao paulo grand prix - post-qualifying procedure](https://www.fia.com/system/files/decision-document/2026_sao_paulo_grand_prix_-_post-qualifying_procedure.pdf) （正文 4138 字）
-- [2026 sao paulo grand prix - power unit information v2](https://www.fia.com/system/files/decision-document/2026_sao_paulo_grand_prix_-_power_unit_information_v2.pdf) （正文 7452 字）
-- [2026 sao paulo grand prix - curfew 0](https://www.fia.com/system/files/decision-document/2026_sao_paulo_grand_prix_-_curfew_0.pdf) （正文 1705 字）
+- [2026 sao paulo grand prix - new pu elements for this competition 1](https://www.fia.com/system/files/decision-document/2026_sao_paulo_grand_prix_-_new_pu_elements_for_this_competition_1.pdf) （正文 4432 字）
+- [2026 sao paulo grand prix - infringement - car 87 - reversing in the pit lane](https://www.fia.com/system/files/decision-document/2026_sao_paulo_grand_prix_-_infringement_-_car_87_-_reversing_in_the_pit_lane.pdf) （正文 1829 字）
+- [2026 sao paulo grand prix - infringement - car 11 - driving in an unsafe condition](https://www.fia.com/system/files/decision-document/2026_sao_paulo_grand_prix_-_infringement_-_car_11_-_driving_in_an_unsafe_condition.pdf) （正文 2430 字）
+- [2026 sao paulo grand prix - infringement - car 11 - changes to pu elements](https://www.fia.com/system/files/decision-document/2026_sao_paulo_grand_prix_-_infringement_-_car_11_-_changes_to_pu_elements.pdf) （正文 2165 字）
+- [2026 sao paulo grand prix - garage doors](https://www.fia.com/system/files/decision-document/2026_sao_paulo_grand_prix_-_garage_doors.pdf) （正文 563 字）
+- [2026 sao paulo grand prix - infringement - car 44 - changes to pu element](https://www.fia.com/system/files/decision-document/2026_sao_paulo_grand_prix_-_infringement_-_car_44_-_changes_to_pu_element.pdf) （正文 1703 字）
+- [2026 sao paulo grand prix - infringement - free practice 3 deleted lap times](https://www.fia.com/system/files/decision-document/2026_sao_paulo_grand_prix_-_infringement_-_free_practice_3_deleted_lap_times.pdf) （正文 2678 字）
+- [2026 sao paulo grand prix - infringement - car 16 - changes to pu element](https://www.fia.com/system/files/decision-document/2026_sao_paulo_grand_prix_-_infringement_-_car_16_-_changes_to_pu_element.pdf) （正文 1704 字）
+- [2026 sao paulo grand prix - race directors competition notes v2](https://www.fia.com/system/files/decision-document/2026_sao_paulo_grand_prix_-_race_directors_competition_notes_v2.pdf) （正文 15396 字）
+- [2026 sao paulo grand prix - infringement - car 3 - changes to pu elements](https://www.fia.com/system/files/decision-document/2026_sao_paulo_grand_prix_-_infringement_-_car_3_-_changes_to_pu_elements.pdf) （正文 2173 字）
+- [2026 sao paulo grand prix - free practice 3 classification](https://www.fia.com/system/files/decision-document/2026_sao_paulo_grand_prix_-_free_practice_3_classification.pdf) （正文 6384 字）
+- [2026 sao paulo grand prix - summons - car 11 - alleged driving in an unsafe condition](https://www.fia.com/system/files/decision-document/2026_sao_paulo_grand_prix_-_summons_-_car_11_-_alleged_driving_in_an_unsafe_condition.pdf) （正文 862 字）
+
+## fia-news
+
+- [United Against Online Abuse Brings Global Campaign to São Paulo Grand Prix and Launches FIA Online Community Guidelines](https://www.fia.com/news/united-against-online-abuse-brings-global-campaign-sao-paulo-grand-prix-and-launches-fia-online) 
+- [F1 – Verstappen edges Antonelli in tight final practice in São Paulo but grid penalties bite](https://www.fia.com/news/f1-verstappen-edges-antonelli-tight-final-practice-sao-paulo-grid-penalties-bite) 
+- [WEC: Fuoco puts Ferrari on pole at Monza](https://www.fia.com/news/wec-fuoco-puts-ferrari-pole-monza) 
 
 ## f1-latest
 
-- [F1 to race in Sao Paulo through to 2035 following new deal](https://www.formula1.com/en/latest/article/formula-1-to-race-in-sao-paulo-through-to-2035-following-new-five-year-contract-extension.3RBVXeLDp6NMDUQSAIX8TL) 
-- [Best Qualifying bets before the Sao Paulo GP](https://www.formula1.com/en/latest/article/best-qualifying-bets-available-before-the-sao-paulo-grand-prix-in-brazil.3En9aemw37NmvZWqLBL1TM) 
-- [LIVE COVERAGE: Third practice in Sao Paulo](https://www.formula1.com/en/latest/article/live-coverage-third-practice-in-brazil-2026.2bZye9K2vj2FHjUqPupvAU) 
-- [What could shake-up the Interlagos betting markets?](https://www.formula1.com/en/latest/article/what-could-turn-the-race-on-its-head-during-the-sao-paulo-grand-prix.6KujQenlA32et55AiQrTyB) 
-- [Permane gives update on Racing Bulls driver decision process](https://www.formula1.com/en/latest/article/the-right-decision-will-be-made-permane-gives-update-on-driver-decision-process-at-racing-bulls.2kgfMJB54MrzV3I94KJHrG) 
-- [Can Mercedes keep their rivals at bay in Sao Paulo?](https://www.formula1.com/en/latest/article/can-mercedes-keep-their-rivals-at-bay-in-sao-paulo.7eVy5I4aTwZqm4N1WE2rBX) 
+- [LIVE COVERAGE: Qualifying in Sao Paulo continues in wet conditions](https://www.formula1.com/en/latest/article/live-coverage-qualifying-in-brazil-2026.3f1u3JidkKoZ1jnhWOuAi8) 
+- [Hamilton set for further grid penalty in Sao Paulo](https://www.formula1.com/en/latest/article/hamilton-set-to-start-at-back-of-the-grid-after-further-penalty-ahead-of-sao-paulo-grand-prix.5SFs44M6cNSDvUBCWE9FWZ) 
+- [Verstappen beats Antonelli and Norris in Sao Paulo FP3](https://www.formula1.com/en/latest/article/fp3-verstappen-fastest-from-antonelli-and-norris-ahead-of-sao-paulo-grand-prix.43ghT9dACzjrhxyjTBgKct) 
+- [Hamilton, Leclerc and Verstappen take Brazil grid drops](https://www.formula1.com/en/latest/article/hamilton-leclerc-and-verstappen-set-for-sao-paulo-grand-prix-penalties-after-power-unit-changes.7B5CuFFCN1F6Txc8YwcEhd) 
 
 ## the-race
 
-- [F1's Brazilian Grand Prix gets five-year extension](https://www.the-race.com/business/f1-brazilian-grand-prix-gets-five-year-extension/) 
-- [Verstappen set to start from the back at F1's Brazilian GP](https://www.the-race.com/formula-1/max-verstappen-set-to-start-from-the-back-at-f1s-brazilian-gp/) 
-- [Hamilton set for Brazil grid penalty after Ferrari's worst 2026 Friday](https://www.the-race.com/formula-1/hamilton-set-for-brazil-grid-penalty-after-ferraris-worst-2026-friday/) 
-- [Bezzecchi dominates for Qatar MotoGP pole](https://www.the-race.com/motogp/bezzecchi-dominates-for-qatar-motogp-pole/) 
-- [F1 race contracts: How long will each track stay on the calendar?](https://www.the-race.com/formula-1/how-long-f1-grand-prix-circuits-contracts/) 
-- [Gary Anderson's verdict on McLaren's 2027-leaning upgrade](https://www.the-race.com/formula-1/gary-anderson-verdict-on-mclaren-2027-leaning-upgrade/) 
+- [Brazilian GP qualifying red flagged almost immediately due to rain](https://www.the-race.com/formula-1/brazilian-gp-qualifying-red-flagged-almost-immediately-due-to-rain/) 
+- [Hamilton gets back-of-the-grid penalty for Brazilian GP](https://www.the-race.com/formula-1/lewis-hamilton-gets-back-of-the-grid-penalty-for-brazilian-gp/) 
+- [Marquez wins Qatar sprint after contentious Bezzecchi clash](https://www.the-race.com/motogp/marc-marquez-wins-qatar-sprint-after-contentious-bezzecchi-clash/) 
+- [Foot fractures for Bagnaia after scary Qatar sprint crash](https://www.the-race.com/motogp/pecco-bagnaia-taken-to-medical-centre-after-crash-red-flags-motogp-qatar-sprint/) 
+- [What happened in final Brazil F1 practice](https://www.the-race.com/formula-1/what-happened-in-final-brazil-f1-practice/) 
+- [Both Ferrari drivers to serve Brazil F1 grid penalties](https://www.the-race.com/formula-1/leclerc-joins-growing-list-of-brazilian-gp-grid-peanlties/) 
 
 ## motorsport
 
-- [Haas justifies picking Rafael Camara over Ryo Hirakawa for F1 Brazilian GP](https://www.motorsport.com/f1/news/haas-justifies-picking-rafael-camara-over-ryo-hirakawa-for-f1-brazilian-gp/10872474/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www) 
-- [Max Verstappen to start Brazilian GP from back of grid as Red Bull confirms penalty](https://www.motorsport.com/f1/news/max-verstappen-to-start-brazilian-gp-from-back-of-grid-as-red-bull-confirms-penalty/10872541/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www) 
-- [F1 retains Brazilian GP until 2035 with fresh Sao Paulo deal](https://www.motorsport.com/f1/news/f1-to-remain-in-brazil-until-2035-after-fresh-sao-paulo-deal/10872537/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www) 
-- [Ayao Komatsu: Esteban Ocon axing ‘surprised everybody at Haas’](https://www.motorsport.com/f1/news/ayao-komatsu-esteban-ocon-axing-surprised-everybody-at-haas/10872455/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www) 
-- [F1 Brazil GP long runs: Kimi Antonelli dominates as Ferrari endures a nightmare Friday](https://www.motorsport.com/f1/news/f1-brazil-gp-long-runs-kimi-antonelli-dominates-as-ferrari-endures-a-nightmare-friday/10872476/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www) 
-- [Ralf Schumacher slams Colton Herta's F1 prospects: "He's just burning fuel"](https://www.motorsport.com/f1/news/ralf-schumacher-slams-colton-hertas-f1-prospects-hes-just-burning-fuel/10872433/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www) 
-- [Ferrari slow on straights, struggling in corners: ‘One of the worst feelings’ for Charles Leclerc](https://www.motorsport.com/f1/news/ferrari-slow-on-straights-struggling-in-corners-one-of-the-worst-feelings-for-charles-leclerc/10872444/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www) 
-- [Racing Bulls promises "right decision" as Liam Lawson's F1 future remains in doubt](https://www.motorsport.com/f1/news/racing-bulls-boss-understands-frustration-over-driver-decision-delay/10872425/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www) 
-
-## team-mercedes
-
-- [Formula 1 will race in brazil until at least 2035 following a new five year extension](https://www.mercedesamgf1.com/news/formula-1-will-race-in-brazil-until-at-least-2035-following-a-new-five-year-extension) 
-
-## team-williams
-
-- [Sao paulo secures grand prix through to](https://www.williamsf1.com/articles/c8c1ad99-84ad-4942-b117-b433d444b68e/sao-paulo-secures-grand-prix-through-to-2035) 
-- [Sao paulo se asegura el gran premio hasta](https://www.williamsf1.com/articles/5c0adf7e-c179-4cb0-84af-e2a831a034d9/sao-paulo-se-asegura-el-gran-premio-hasta-2035) 
+- [Toto Wolff doesn’t think Kimi Antonelli “would have lasted in other teams”](https://www.motorsport.com/f1/news/toto-wolff-reveals-how-mercedes-shielded-kimi-antonelli-during-his-brutal-2025-slump/10872603/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www) 
+- [Lewis Hamilton set for new penalty, will start F1 Brazilian GP from back of grid](https://www.motorsport.com/f1/news/lewis-hamilton-set-for-new-penalty-will-start-f1-brazilian-gp-from-back-of-grid/10872640/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www) 
+- [Fred Vasseur personally contributed $1m to Esteban Ocon’s first F1 drive](https://www.motorsport.com/f1/news/fred-vasseur-personally-contributed-1m-to-esteban-ocons-first-f1-drive/10872524/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www) 
+- [F1 Brazilian GP: Max Verstappen edges out Kimi Antonelli in FP3](https://www.motorsport.com/f1/news/f1-brazilian-gp-fp3-report/10872574/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www) 
+- [Lewis Hamilton, Charles Leclerc and Max Verstappen hit with F1 grid penalties for Brazilian GP](https://www.motorsport.com/f1/news/lewis-hamilton-charles-leclerc-and-max-verstappen-hit-with-f1-grid-penalties-for-brazilian-gp/10872560/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www) 
 
 > 由 collect.py 自动生成。PDF 原文在 archive/日期/ 下。
