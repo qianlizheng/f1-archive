@@ -1,44 +1,49 @@
-# F1 素材摘要 · 2026-11-07 13:39
+# F1 素材摘要 · 2026-11-07 22:51
 
 
 ## fia-decisions
 
-- [2026 sao paulo grand prix - fp1 and fp2 scrutineering](https://www.fia.com/system/files/decision-document/2026_sao_paulo_grand_prix_-_fp1_and_fp2_scrutineering.pdf) （正文 4953 字）
+- [2026 sao paulo grand prix - new pu elements for this competition 0](https://www.fia.com/system/files/decision-document/2026_sao_paulo_grand_prix_-_new_pu_elements_for_this_competition_0.pdf) （正文 3915 字）
+- [2026 sao paulo grand prix - post-qualifying procedure](https://www.fia.com/system/files/decision-document/2026_sao_paulo_grand_prix_-_post-qualifying_procedure.pdf) （正文 4138 字）
+- [2026 sao paulo grand prix - power unit information v2](https://www.fia.com/system/files/decision-document/2026_sao_paulo_grand_prix_-_power_unit_information_v2.pdf) （正文 7452 字）
+- [2026 sao paulo grand prix - curfew 0](https://www.fia.com/system/files/decision-document/2026_sao_paulo_grand_prix_-_curfew_0.pdf) （正文 1705 字）
 
 ## f1-latest
 
-- [Camara reflects on 'very special' F1 weekend debut](https://www.formula1.com/en/latest/article/camara-reflects-on-very-special-first-f1-outing-as-he-gears-up-for-haas-debut-in-sao-paulo.7FQp0PWMq4lsDsDAoosi4t) 
-- [Red Bull ‘looking into quite a few changes’ for Verstappen](https://www.formula1.com/en/latest/article/schmitz-confirms-red-bull-looking-into-quite-a-few-changes-following-verstappens-sao-paulo-issues.mt1q9B8dzsQIDHkp5YFUs) 
-- [What the teams said – Friday in Brazil](https://www.formula1.com/en/latest/article/what-the-teams-said-friday-in-brazil-2026.4WPgQlfi6v476KUJTYZeFM) 
-- [Ferrari have 'plenty to work on' in Brazil – Leclerc](https://www.formula1.com/en/latest/article/leclerc-concedes-theres-plenty-to-work-on-for-ferrari-ahead-of-sao-paulo-gp.2cWYwXJTouoM7r1LMyyhKr) 
-- [Antonelli explains Sao Paulo mindset as new World Champion](https://www.formula1.com/en/latest/article/im-trying-to-enjoy-more-antonelli-explains-his-mindset-in-sao-paulo-as-the-new-world-champion.1iucwqkOBiexeg1SJiMP27) 
-- [McLaren 'seemed to gain performance' with upgrades – Norris](https://www.formula1.com/en/latest/article/we-seemed-to-gain-performance-norris-offers-update-on-mclarens-upgrades-in-sao-paulo.6fULeVhwADSsEp722opGBk) 
+- [F1 to race in Sao Paulo through to 2035 following new deal](https://www.formula1.com/en/latest/article/formula-1-to-race-in-sao-paulo-through-to-2035-following-new-five-year-contract-extension.3RBVXeLDp6NMDUQSAIX8TL) 
+- [Best Qualifying bets before the Sao Paulo GP](https://www.formula1.com/en/latest/article/best-qualifying-bets-available-before-the-sao-paulo-grand-prix-in-brazil.3En9aemw37NmvZWqLBL1TM) 
+- [LIVE COVERAGE: Third practice in Sao Paulo](https://www.formula1.com/en/latest/article/live-coverage-third-practice-in-brazil-2026.2bZye9K2vj2FHjUqPupvAU) 
+- [What could shake-up the Interlagos betting markets?](https://www.formula1.com/en/latest/article/what-could-turn-the-race-on-its-head-during-the-sao-paulo-grand-prix.6KujQenlA32et55AiQrTyB) 
+- [Permane gives update on Racing Bulls driver decision process](https://www.formula1.com/en/latest/article/the-right-decision-will-be-made-permane-gives-update-on-driver-decision-process-at-racing-bulls.2kgfMJB54MrzV3I94KJHrG) 
+- [Can Mercedes keep their rivals at bay in Sao Paulo?](https://www.formula1.com/en/latest/article/can-mercedes-keep-their-rivals-at-bay-in-sao-paulo.7eVy5I4aTwZqm4N1WE2rBX) 
 
 ## the-race
 
-- [Herta finally clears his last F1 superlicence hurdle](https://www.the-race.com/formula-1/herta-finally-clears-his-last-f1-superlicence-hurdle/) 
-- [Winners & losers from F1 2026 Brazilian GP Friday practice](https://www.the-race.com/formula-1/winners-losers-from-f1-2026-brazilian-gp-friday-practice/) 
-- [‘Dangerous’ but also ‘brilliant’ - Rafael Camara’s F1 debut](https://www.the-race.com/formula-1/f1-debutant-camara-punished-for-dangerous-leclerc-impeding/) 
+- [F1's Brazilian Grand Prix gets five-year extension](https://www.the-race.com/business/f1-brazilian-grand-prix-gets-five-year-extension/) 
+- [Verstappen set to start from the back at F1's Brazilian GP](https://www.the-race.com/formula-1/max-verstappen-set-to-start-from-the-back-at-f1s-brazilian-gp/) 
+- [Hamilton set for Brazil grid penalty after Ferrari's worst 2026 Friday](https://www.the-race.com/formula-1/hamilton-set-for-brazil-grid-penalty-after-ferraris-worst-2026-friday/) 
+- [Bezzecchi dominates for Qatar MotoGP pole](https://www.the-race.com/motogp/bezzecchi-dominates-for-qatar-motogp-pole/) 
+- [F1 race contracts: How long will each track stay on the calendar?](https://www.the-race.com/formula-1/how-long-f1-grand-prix-circuits-contracts/) 
+- [Gary Anderson's verdict on McLaren's 2027-leaning upgrade](https://www.the-race.com/formula-1/gary-anderson-verdict-on-mclaren-2027-leaning-upgrade/) 
 
 ## motorsport
 
-- [Lando Norris reveals how Lewis Hamilton has changed his F1 championship ambitions](https://www.motorsport.com/f1/news/lando-norris-reveals-how-lewis-hamilton-has-changed-his-f1-championship-ambitions/10872375/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www) 
-- [Why Max Verstappen ended F1 practice early in Brazil – Red Bull explains](https://www.motorsport.com/f1/news/why-max-verstappen-ended-f1-practice-early-in-brazil-red-bull-explains/10872364/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www) 
-- [Fred Vasseur turns down being godfather to Charles Leclerc’s baby: “I have four children”](https://www.motorsport.com/f1/news/fred-vasseur-turns-down-being-godfather-to-charles-leclercs-baby-i-have-four-children/10872357/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www) 
-- [F1 Brazil GP: Saturday schedule, weather forecast and how to watch](https://www.motorsport.com/f1/news/f1-brazil-gp-saturday-schedule-weather-forecast-and-how-to-watch/10872353/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www) 
-- [McLaren’s upgrade is "a pleasant surprise" – but will it stay on the car in Brazil?](https://www.motorsport.com/f1/news/mclarens-upgrade-is-a-pleasant-surprise-but-will-it-stay-on-the-car-in-brazil/10872338/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www) 
+- [Haas justifies picking Rafael Camara over Ryo Hirakawa for F1 Brazilian GP](https://www.motorsport.com/f1/news/haas-justifies-picking-rafael-camara-over-ryo-hirakawa-for-f1-brazilian-gp/10872474/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www) 
+- [Max Verstappen to start Brazilian GP from back of grid as Red Bull confirms penalty](https://www.motorsport.com/f1/news/max-verstappen-to-start-brazilian-gp-from-back-of-grid-as-red-bull-confirms-penalty/10872541/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www) 
+- [F1 retains Brazilian GP until 2035 with fresh Sao Paulo deal](https://www.motorsport.com/f1/news/f1-to-remain-in-brazil-until-2035-after-fresh-sao-paulo-deal/10872537/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www) 
+- [Ayao Komatsu: Esteban Ocon axing ‘surprised everybody at Haas’](https://www.motorsport.com/f1/news/ayao-komatsu-esteban-ocon-axing-surprised-everybody-at-haas/10872455/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www) 
+- [F1 Brazil GP long runs: Kimi Antonelli dominates as Ferrari endures a nightmare Friday](https://www.motorsport.com/f1/news/f1-brazil-gp-long-runs-kimi-antonelli-dominates-as-ferrari-endures-a-nightmare-friday/10872476/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www) 
+- [Ralf Schumacher slams Colton Herta's F1 prospects: "He's just burning fuel"](https://www.motorsport.com/f1/news/ralf-schumacher-slams-colton-hertas-f1-prospects-hes-just-burning-fuel/10872433/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www) 
+- [Ferrari slow on straights, struggling in corners: ‘One of the worst feelings’ for Charles Leclerc](https://www.motorsport.com/f1/news/ferrari-slow-on-straights-struggling-in-corners-one-of-the-worst-feelings-for-charles-leclerc/10872444/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www) 
+- [Racing Bulls promises "right decision" as Liam Lawson's F1 future remains in doubt](https://www.motorsport.com/f1/news/racing-bulls-boss-understands-frustration-over-driver-decision-delay/10872425/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www) 
 
 ## team-mercedes
 
-- [Fascinating friday in brazil](https://www.mercedesamgf1.com/news/fascinating-friday-in-brazil) 
+- [Formula 1 will race in brazil until at least 2035 following a new five year extension](https://www.mercedesamgf1.com/news/formula-1-will-race-in-brazil-until-at-least-2035-following-a-new-five-year-extension) 
 
-## team-haas
+## team-williams
 
-- [Sao paulo grand prix practice recap](https://www.haasf1team.com/news/sao-paulo-grand-prix-practice-recap) 
-
-## team-alpine
-
-- [Grand prix de sao paulo de formule 1 2026 vendredi](https://media.alpinecars.com/grand-prix-de-sao-paulo-de-formule-1-2026-vendredi/) 
-- [2026 formula one sao paulo grand prix friday](https://media.alpinecars.com/2026-formula-one-sao-paulo-grand-prix-friday/) 
+- [Sao paulo secures grand prix through to](https://www.williamsf1.com/articles/c8c1ad99-84ad-4942-b117-b433d444b68e/sao-paulo-secures-grand-prix-through-to-2035) 
+- [Sao paulo se asegura el gran premio hasta](https://www.williamsf1.com/articles/5c0adf7e-c179-4cb0-84af-e2a831a034d9/sao-paulo-se-asegura-el-gran-premio-hasta-2035) 
 
 > 由 collect.py 自动生成。PDF 原文在 archive/日期/ 下。
