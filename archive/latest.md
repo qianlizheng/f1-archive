@@ -1,30 +1,11 @@
-# F1 素材摘要 · 2026-11-16 04:58
+# F1 素材摘要 · 2026-11-16 13:57
 
-
-## fia-news
-
-- [Benediktas Čirba takes FIA Intercontinental Drifting Cup victory as Greece wins the Nations Cup](https://www.fia.com/news/benediktas-cirba-takes-fia-intercontinental-drifting-cup-victory-greece-wins-nations-cup) 
-
-## f1-latest
-
-- [QUIZ: Can you identify these F1 tracks from just one picture?](https://www.formula1.com/en/latest/article/trivia-guess-the-track-1.1N6Z8MTxyBFjqio8h5hOSW) 
-- [Behind the lens with Mark Sutton for Antonelli's F1 title triumph](https://www.formula1.com/en/latest/article/one-of-the-best-experiences-of-my-life-mark-sutton-on-photographing-antonellis-f1-title.2oqpziZe3WQ5B2xFvPWsnU) 
 
 ## motorsport
 
-- [Christian Horner explains why Max Verstappen’s “abnormal” driving style destroys his team-mates](https://www.motorsport.com/f1/news/horner-explains-why-max-verstappens-abnormal-driving-style-destroys-his-teammates/10874636/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www) 
-- [Retaining Liam Lawson isn't enough – Red Bull must stop treating him like a failure](https://www.motorsport.com/f1/news/retaining-liam-lawson-isnt-enough-red-bull-must-stop-treating-him-like-a-failure/10874659/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www) 
-- [Christian Horner blames Red Bull leadership structure for missing F1’s future stars](https://www.motorsport.com/f1/news/i-never-had-responsibility-horner-blames-fractured-red-bull-leadership-for-missing-f1s-future-stars/10874624/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www) 
-
-## team-cadillac
-
-- [2026 japanese grand prix free practice report](https://www.cadillacf1team.com/news/2026-japanese-grand-prix-free-practice-report) 
-- [2026 japanese grand prix race report](https://www.cadillacf1team.com/news/2026-japanese-grand-prix-race-report) 
-- [Cadillac formula 1 team takes over miami americas team brings the heat to jungle plaza](https://www.cadillacf1team.com/news/cadillac-formula-1-team-takes-over-miami-americas-team-brings-the-heat-to-jungle-plaza) 
-- [Cadillac formula 1 team unveils miami grand prix livery for first home race](https://www.cadillacf1team.com/news/cadillac-formula-1-team-unveils-miami-grand-prix-livery-for-first-home-race) 
-- [2026 miami grand prix sprint qualifying report](https://www.cadillacf1team.com/news/2026-miami-grand-prix-sprint-qualifying-report) 
-- [2026 miami grand prix race report](https://www.cadillacf1team.com/news/2026-miami-grand-prix-race-report) 
-- [2026 miami grand prix sprint race and qualifying report](https://www.cadillacf1team.com/news/2026-miami-grand-prix-sprint-race-and-qualifying-report) 
-- [Twg ai joins the cadillac formula 1 r team as primary and exclusive ai](https://www.cadillacf1team.com/news/twg-ai-joins-the-cadillac-formula-1-r-team-as-primary-and-exclusive-ai) 
+- [Christian Horner admits Red Bull prospects were thrown in against Max Verstappen too soon](https://www.motorsport.com/f1/news/horner-admits-red-bull-broken-pierre-gasly-and-promoted-drivers-too-soon/10874627/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www) 
+- [Topps reveals Gem Mint 10 Lando Norris card with Coca-Cola suit patch](https://www.motorsport.com/f1/news/topps-reveals-gem-mint-10-lando-norris-card-with-coca-cola-suit-patch/10874731/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www) 
+- [Kimi Antonelli names biggest threat to 2027 title defence as he warns Mercedes advantage may fade](https://www.motorsport.com/f1/news/kimi-antonelli-names-biggest-threat-to-2027-title-defence-as-he-warns-mercedes-advantage-may-fade/10874729/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www) 
+- [Lewis Hamilton criticises ex-F1 drivers for "talking smack" about young stars](https://www.motorsport.com/f1/news/lewis-hamilton-criticises-ex-f1-drivers-for-talking-smack-and-young-stars/10874726/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www) 
 
 > 由 collect.py 自动生成。PDF 原文在 archive/日期/ 下。
