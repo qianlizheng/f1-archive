@@ -1,40 +1,42 @@
-# F1 素材摘要 · 2026-11-17 21:00
+# F1 素材摘要 · 2026-11-18 07:27
 
+
+## fia-decisions
+
+- [2026 las vegas grand prix - competition notes - pirelli preview](https://www.fia.com/system/files/decision-document/2026_las_vegas_grand_prix_-_competition_notes_-_pirelli_preview.pdf) （正文 7273 字）
+- [2026 las vegas grand prix - competition visa](https://www.fia.com/system/files/decision-document/2026_las_vegas_grand_prix_-_competition_visa.pdf) （正文 18363 字）
 
 ## fia-news
 
-- [WRC Commission Meeting – 16/11/2026 – Media Update](https://www.fia.com/news/wrc-commission-meeting-16112026-media-update) 
-- [Final Titles of the Season Up for Grabs at Accessible FIA Karting Arrive and Drive World Cup](https://www.fia.com/news/final-titles-season-grabs-accessible-fia-karting-arrive-and-drive-world-cup) 
+- [F1 - 2026 Las Vegas GP Schedule of Press Conferences](https://www.fia.com/news/f1-2026-las-vegas-gp-schedule-press-conferences) 
 
 ## f1-latest
 
-- [The 5 drivers most likely to win in Las Vegas](https://www.formula1.com/en/latest/article/the-5-drivers-most-likely-to-win-the-las-vegas-grand-prix-according-to-the-betting-markets.35XTVOVdU16UJWGZJj3ctb) 
-- [Alonso set for Dakar Rally return with Aston Martin](https://www.formula1.com/en/latest/article/alonso-to-make-dakar-rally-return-with-aston-martin-dreadnought-in-2027.6qKZRHvlJP4ECq2Bri772q) 
-- [Aston Martin showcase bespoke Las Vegas Grand Prix livery](https://www.formula1.com/en/latest/article/gallery-aston-martin-showcase-bespoke-livery-for-las-vegas-grand-prix.7f71lWPYrxvriroCo30iaY) 
+- [Cadillac reveal special livery for Las Vegas Grand Prix](https://www.formula1.com/en/latest/article/gallery-cadillac-reveal-special-livery-for-las-vegas-grand-prix.1b7NXQe83gP2LzjiCQf2ES) 
+- [Audi announce Felbermayr for third F1 ACADEMY season in 2027](https://www.formula1.com/en/latest/article/audi-announce-emma-felbermayr-for-third-f1-academy-season-in-2027.3numbjpdYoNe5Bp0NCeSUz) 
+- [Sainz on his 250th GP and Williams’ ‘most important year’](https://www.formula1.com/en/latest/article/exclusive-sainz-reflects-on-the-journey-to-his-250th-grand-prix-and-preparing-for-williams-most-important-year.4q4YmHp7ZpfnUTMjNNPXc9) 
+- [The 5 drivers to back in Qualifying in Las Vegas](https://www.formula1.com/en/latest/article/the-5-drivers-who-are-most-likely-to-qualify-fastest-in-las-vegas.4bdBCuhbBNlUkHaoVfsopF) 
+- [Williams retain Jade Jacquet for 2027 F1 ACADEMY campaign](https://www.formula1.com/en/latest/article/williams-retain-jade-jacquet-for-2027-f1-academy-campaign.5BcvOHlUPr9OJXYXq30dnE) 
+- [How the Sphere became the heart of the Las Vegas GP](https://www.formula1.com/en/latest/article/how-the-sphere-became-the-heart-of-the-las-vegas-grand-prix.1xiIUVGfOPf8kGx8oHY7V9) 
+- [Brown on why McLaren struggled to fight for title in 2026](https://www.formula1.com/en/latest/article/weve-just-got-to-do-a-better-job-brown-explains-why-mclaren-struggled-to-challenge-for-the-championship-in-2026.4vyTtKngYi0IPSrhXhRozz) 
 
 ## the-race
 
-- [F1's 'stupid' speed limit to change in 2027? What you need to know](https://www.the-race.com/formula-1/what-f1-looking-to-change-about-stupid-speed-limit-rule/) 
-- [Alonso to contest 2027 Dakar Rally with new Aston Martin project](https://www.the-race.com/formula-1/fernando-alonso-2027-dakar-rally-new-aston-martin-project/) 
+- [All the special liveries for F1's Las Vegas Grand Prix](https://www.the-race.com/formula-1/f1-all-special-liveries-las-vegas-grand-prix/) 
+- [Mercedes plans to debut ADUO upgrade on Antonelli's car only](https://www.the-race.com/formula-1/mercedes-plan-to-debut-aduo-upgrade-on-antonellis-car-only/) 
 
 ## motorsport
 
-- [Toto Wolff is not afraid of losing Kimi Antonelli to Ferrari](https://www.motorsport.com/f1/news/toto-wolff-is-not-afraid-of-losing-kimi-antonelli-to-ferrari/10875044/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www) 
-- [Fernando Alonso to return to Dakar Rally with Aston Martin in 2027](https://www.motorsport.com/dakar/news/fernando-alonso-to-return-to-dakar-rally-with-aston-martin-in-2027/10874907/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www) 
+- [“He’s beaten Alpine on his own” - Racing Bulls on why it kept Liam Lawson](https://www.motorsport.com/f1/news/alan-permane-liam-lawson-has-been-a-revelation-as-he-earned-2027-racing-bulls-f1-deal/10875104/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www) 
 
-## team-astonmartin
+## team-mercedes
 
-- [Fernando alonso returns to the dakar with aston martin dreadnought](https://www.astonmartinf1.com/en-GB/news/announcement/fernando-alonso-returns-to-the-dakar-with-aston-martin-dreadnought) 
-- [Undercut fernando alonso forever young](https://www.astonmartinf1.com/en-GB/news/feature/undercut-fernando-alonso-forever-young) 
+- [The final races give us more opportunities to learn and improve totos las vegas gp preview](https://www.mercedesamgf1.com/news/the-final-races-give-us-more-opportunities-to-learn-and-improve-totos-las-vegas-gp-preview) 
 
 ## team-williams
 
-- [Carlos reaches 250 grand prix starts in las vegas](https://www.williamsf1.com/articles/9dce736b-738f-488f-85df-107e74e20246/carlos-reaches-250-grand-prix-starts-in-las-vegas) 
-- [Carlos alcanza los 250 grandes premios disputados en las vegas](https://www.williamsf1.com/articles/36d79030-5b21-4f2f-9e33-7d39c2b6a1e3/carlos-alcanza-los-250-grandes-premios-disputados-en-las-vegas) 
-- [In photos vegas race week begins](https://www.williamsf1.com/articles/4ff2c4b1-366d-4133-b495-e3cdad234e98/in-photos-vegas-race-week-begins) 
-
-## team-redbull
-
-- [Miles across america](https://www.redbullracing.com/int-en/miles-across-america-2026) 
+- [La piloto de la academia del equipo williams f1 jade jacquet renueva su contrato para](https://www.williamsf1.com/articles/ed6d3b15-bf07-40d6-a3f3-393b60d995f3/la-piloto-de-la-academia-del-equipo-williams-f1-jade-jacquet-renueva-su-contrato-para-2027) 
+- [Williams f1 team academy driver jade jacquet secures contract extension for](https://www.williamsf1.com/articles/71a11d1f-4c24-4c00-a8d5-4a9ca7a1a86d/williams-f1-team-academy-driver-jade-jacquet-secures-contract-extension-for-2027) 
+- [Take our pre vegas quiz](https://www.williamsf1.com/articles/e233852e-3428-478f-9540-fafc04dcb7fc/take-our-pre-vegas-quiz) 
 
 > 由 collect.py 自动生成。PDF 原文在 archive/日期/ 下。
