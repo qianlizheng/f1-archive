@@ -1,0 +1,10 @@
+# Lando Norris on "GTA VI": "I wasn't allowed to play it when I was younger"
+
+- 来源：motorsport
+- 链接：https://www.motorsport.com/f1/news/lando-norris-on-gta-6-i-wasnt-allowed-to-play-it-when-i-was-younger/10875412/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www
+- 采集时间：2026-11-19 20:45
+- 发布时间：Thu, 19 Nov 2026 03:06:56 +0000
+
+---
+
+（正文未抽取，请打开原链接或本地 PDF）
