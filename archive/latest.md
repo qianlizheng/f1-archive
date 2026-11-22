@@ -1,25 +1,28 @@
-# F1 素材摘要 · 2026-11-22 05:34
+# F1 素材摘要 · 2026-11-22 14:18
 
+
+## fia-news
+
+- [Craigie wins FIA F4 World Cup thriller in Macao](https://www.fia.com/news/craigie-wins-fia-f4-world-cup-thriller-macao) 
+- [FIA and AAMC extend FIA GT World Cup agreement through 2028](https://www.fia.com/news/fia-and-aamc-extend-fia-gt-world-cup-agreement-through-2028) 
 
 ## f1-latest
 
-- [Our final Las Vegas Grand Prix betting predictions](https://www.formula1.com/en/latest/article/our-final-las-vegas-grand-prix-betting-predictions-before-lights-out-on-the-strip.4jYqIilNqAOjx4y3poORZX) 
-- [How F1 fans can avoid emotional betting in Las Vegas](https://www.formula1.com/en/latest/article/how-f1-fans-can-avoid-emotional-betting-during-the-las-vegas-grand-prix.24NadP7NoIqRfhaeuykCuI) 
-- [Our Las Vegas GP Bet Builder selections made](https://www.formula1.com/en/latest/article/our-las-vegas-grand-prix-bet-builder-selections-as-max-verstappen-to-start-on-pole.5kZr0wohlPjcax9jtd9RLX) 
+- [Verstappen wins exhilarating Las Vegas Grand Prix](https://www.formula1.com/en/latest/article/verstappen-wins-exhilarating-las-vegas-grand-prix-from-norris-and-piastri.2eeBWqekZdir9mdDVK9YVX) 
+- [GALLERY: Celebrities go head-to-head in Las Vegas LEGO race](https://www.formula1.com/en/latest/article/gallery-celebrities-go-head-to-head-in-las-vegas-as-the-lego-race-makes-its-debut.1CEzupcRQcT0ZW9lyxFSLH) 
+- [OFFICIAL GRID: Who starts where for the Las Vegas Grand Prix](https://www.formula1.com/en/latest/article/official-grid-who-starts-where-in-las-vegas-after-multiple-penalties.1PRdR9E7qYRjHoRh1NlDR4) 
+- [LIVE COVERAGE: Verstappen wins thrilling Las Vegas Grand Prix](https://www.formula1.com/en/latest/article/live-coverage-formula-1-heineken-las-vegas-grand-prix-2026.5lbMAk1JxHBbBVelEl2kyc) 
+- [Palmowski fends off Larsen for victory in Las Vegas](https://www.formula1.com/en/latest/article/f1-academy-palmowski-fends-off-larsen-for-victory-as-campos-racing-claim-teams-title-in-las-vegas.6Fw8vZsWjOFWzvtWp4diBW) 
 
 ## the-race
 
-- [How Marc Marquez can seal MotoGP title in the Portuguese GP](https://www.the-race.com/motogp/how-marc-marquez-can-seal-motogp-title-in-the-portuguese-gp/) 
-- ['Joke' MotoGP sprint rescheduling infuriates Miller](https://www.the-race.com/motogp/joke-motogp-sprint-rescheduling-infuriates-miller/) 
-- [Marquez explains shock late crash that kept MotoGP title fight open](https://www.the-race.com/motogp/marquez-explains-shock-late-crash-that-kept-motogp-title-fight-open/) 
-- [F1 still 'very small' in US - Domenicali](https://www.the-race.com/formula-1/f1-still-very-small-in-us-domenicali/) 
-- [Marquez crashes out on brink of MotoGP title](https://www.the-race.com/motogp/marquez-crashes-out-on-brink-of-motogp-title/) 
+- [Verstappen wins breathless Las Vegas GP as Ferraris collide](https://www.the-race.com/formula-1/f1-las-vegas-gp-max-verstappen-wins-ferrari-drivers-collide/) 
+- [F1 2026 Las Vegas Grand Prix race result](https://www.the-race.com/formula-1/f1-2026-las-vegas-grand-prix-race-result/) 
 
 ## motorsport
 
-- [Oscar Piastri questions "strange" pace deficit to other Mercedes-powered cars in Las Vegas](https://www.motorsport.com/f1/news/piastri-questions-strange-pace-deficit-to-other-mercedes-powered-cars-in-las-vegas/10876516/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www) 
-- [Max Verstappen takes Las Vegas pole despite “weird issues” since Brazil](https://www.motorsport.com/f1/news/max-verstappen-takes-las-vegas-pole-despite-weird-issues-since-brazil/10876373/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www) 
-- [Why Mercedes' tow plan for George Russell fell apart in Las Vegas](https://www.motorsport.com/f1/news/why-mercedes-tow-plan-for-george-russell-fell-apart-in-las-vegas/10876341/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www) 
-- [Isack Hadjar: “We looked stupid” in Las Vegas as I don’t like slipstreaming](https://www.motorsport.com/f1/news/isack-hadjar-we-looked-stupid-in-las-vegas-as-i-dont-like-slipstreaming/10876445/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www) 
+- [Five quick takeaways from Las Vegas GP](https://www.motorsport.com/f1/news/five-quick-takeaways-from-las-vegas-gp/10876667/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www) 
+- [F1 Las Vegas GP: Max Verstappen wins thriller as Ferraris come to blows](https://www.motorsport.com/f1/news/f1-las-vegas-gp-report/10876675/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www) 
+- [Lewis Hamilton questions stewards in unaired radio message after F1 Vegas penalty](https://www.motorsport.com/f1/news/hamilton-questions-stewards-consistency-over-unaired-las-vegas-radio-after-10-second-penalty/10876678/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www) 
 
 > 由 collect.py 自动生成。PDF 原文在 archive/日期/ 下。
