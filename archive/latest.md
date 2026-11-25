@@ -1,39 +1,52 @@
-# F1 素材摘要 · 2026-11-25 08:32
+# F1 素材摘要 · 2026-11-25 22:06
 
+
+## fia-decisions
+
+- [2026 qatar grand prix - competition notes - pirelli preview](https://www.fia.com/system/files/decision-document/2026_qatar_grand_prix_-_competition_notes_-_pirelli_preview.pdf) （正文 8749 字）
+- [2026 qatar grand prix - competition visa](https://www.fia.com/system/files/decision-document/2026_qatar_grand_prix_-_competition_visa.pdf) （正文 16519 字）
 
 ## fia-news
 
-- [LOEB AND KRISTOFFERSSON TO HEADLINE INAUGURAL FIA RALLYCROSS WORLD CUP AS ENTRY LIST IS REVEALED](https://www.fia.com/news/loeb-and-kristoffersson-headline-inaugural-fia-rallycross-world-cup-entry-list-revealed) 
+- [World’s Smartest Driver crowned in Paris | The FIA has announced the winner of its Smart Driving Challenge 2026](https://www.fia.com/news/worlds-smartest-driver-crowned-paris-fia-has-announced-winner-its-smart-driving-challenge-2026) 
+- [F1 - 2026 Qatar Grand Prix Preview](https://www.fia.com/news/f1-2026-qatar-grand-prix-preview-0) 
+- [F1 - 2026 Qatar GP Schedule of Press Conferences](https://www.fia.com/news/f1-2026-qatar-gp-schedule-press-conferences) 
 
 ## f1-latest
 
-- [What time is the 2026 Qatar GP and how can I watch it?](https://www.formula1.com/en/latest/article/what-time-is-the-formula-1-2026-qatar-grand-prix-and-how-can-i-watch-it.XirX9Qy8hRZnH3O1Qhcch) 
-- [Was Russell ‘playing mind games with himself’ in Las Vegas?](https://www.formula1.com/en/latest/article/was-russell-playing-mind-games-with-himself-before-verstappens-victory-in-las-vegas.3ZYU5SCNPd2f2JQIKr7LlM) 
-- [The RB22 tweaks that helped Verstappen take victory in Las Vegas](https://www.formula1.com/en/latest/article/the-rb22-tweaks-that-helped-verstappen-take-victory-in-las-vegas.67NV2uD7vnuxKuW9SHi685) 
-- [Who impressed our Power Rankings judges in Las Vegas?](https://www.formula1.com/en/latest/article/power-rankings-who-impressed-our-judges-at-the-2026-las-vegas-grand-prix.8LxxDUxVsoaYjfw269gz5) 
+- [From Monza mayhem to Suzuka showdowns – 10 dramatic F1 rivalry flashpoints](https://www.formula1.com/en/latest/article/from-monza-mayhem-to-suzuka-showdowns-10-dramatic-rivalry-flashpoints-in-f1-history.3tetZNSgL2jM1F3THX3k1M) 
+- [EXPLAINED: Why there's a 27-lap tyre limit for the Qatar GP](https://www.formula1.com/en/latest/article/explained-why-theres-a-27-lap-limit-on-tyres-for-the-qatar-grand-prix.4oeu38BqJh1h7llxUeILBe) 
+- [How to stream the 2026 Qatar Grand Prix on F1 TV Premium](https://www.formula1.com/en/latest/article/how-to-stream-the-formula-1-2026-qatar-grand-prix-on-f1-tv-premium.4CMqa6NvWBGhwyaOXXgsxI) 
+- [What tyres will the teams have for the Qatar Grand Prix?](https://www.formula1.com/en/latest/article/what-tyres-will-the-teams-and-drivers-have-for-the-2026-qatar-grand-prix.7JllCRweDY5sW1N9LzdkLm) 
 
 ## the-race
 
-- [What time is F1's 2026 Qatar Grand Prix? Full weekend schedule](https://www.the-race.com/promoted/what-time-is-f1s-2026-qatar-grand-prix-full-weekend-schedule/) 
-- [Ducati's ace up its sleeve for 2027?](https://www.the-race.com/promoted/ducatis-ace-up-its-sleeve-motogp-2027/) 
-- [Ex-Ford CEO to lead Motorsport UK as David Richards departs](https://www.the-race.com/business/ex-ford-ceo-to-lead-motorsport-uk-as-david-richards-departs/) 
+- [McLaren's driver management lessons for Ferrari](https://www.the-race.com/formula-1/mclarens-driver-management-lessons-for-ferrari/) 
+- [The unusual reason F1's engine freeze could return](https://www.the-race.com/formula-1/unusual-reason-f1-engine-freeze-could-return/) 
 
 ## motorsport
 
-- [Lando Norris expects 2030 F1 racing to surpass Las Vegas GP spectacle](https://www.motorsport.com/f1/news/lando-norris-admits-some-of-the-overtakes-werent-overtakes-in-vegas-thriller-and-explains-why-2030-/10877443/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www) 
-- [Unaired Las Vegas radio reveals Red Bull considered giving up Max Verstappen's lead](https://www.motorsport.com/f1/news/unaired-radio-reveals-red-bull-told-max-verstappen-to-consider-giving-antonelli-the-lead-before-las/10877450/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www) 
-- [Jolyon Palmer: No rival could match Max Verstappen's fight against George Russell in Las Vegas](https://www.motorsport.com/f1/news/jolyon-palmer-hails-max-verstappens-unbelievable-racecraft-in-george-russell-duel/10877407/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www) 
-- [Decision time looms for Colton Herta after 2027 Cadillac F1 snub](https://www.motorsport.com/f1/news/decision-time-looms-for-colton-herta-after-2027-cadillac-f1-snub/10877531/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www) 
-- [The issue that cost Pierre Gasly a potential "win" at F1's Las Vegas GP](https://www.motorsport.com/f1/news/the-issue-that-cost-pierre-gasly-a-potential-podium-at-f1s-las-vegas-gp/10877501/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www) 
+- [Zak Brown rules out McLaren engine programme for F1 2030](https://www.motorsport.com/f1/news/zak-brown-rules-out-mclaren-engine-programme-for-f1-2030/10877436/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www) 
+- [Fernando Alonso: “We can't be competitive with the power unit we have”](https://www.motorsport.com/f1/news/fernando-alonso-we-cant-be-competitive-with-the-power-unit-we-have/10877596/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www) 
 
-## team-astonmartin
+## team-mercedes
 
-- [Undercut fernando alonso master of chaos](https://www.astonmartinf1.com/en-GB/news/feature/undercut-fernando-alonso-master-of-chaos) 
+- [Five things you didnt know about the qatar gp](https://www.mercedesamgf1.com/news/five-things-you-didnt-know-about-the-qatar-gp-2026) 
+- [Petronas tech series episode 3 sustainability](https://www.mercedesamgf1.com/news/petronas-tech-series-episode-3-sustainability) 
 
 ## team-williams
 
-- [12 days of gifting returns for](https://www.williamsf1.com/articles/fae90b86-7ab6-4cd2-8520-11187418fc6d/12-days-of-gifting-returns-for-2026) 
-- [Los 12 dias de regalos vuelven en](https://www.williamsf1.com/articles/227f51c7-7128-4a42-85af-3f3cf3a61ddc/los-12-dias-de-regalos-vuelven-en-2026) 
-- [Take the quick fire qatar gp quiz](https://www.williamsf1.com/articles/c8a06715-5922-4806-97c6-ff2a64b8e568/take-the-quick-fire-qatar-gp-quiz) 
+- [Alex y carlos analizan la penultima ronda en catar](https://www.williamsf1.com/articles/83d73f46-92d3-4369-b575-df0e2cda8d67/alex-y-carlos-analizan-la-penultima-ronda-en-catar) 
+- [Alex and carlos preview penultimate round in qatar](https://www.williamsf1.com/articles/90fcc87b-a358-479a-9f98-b472f3aa4dfd/alex-and-carlos-preview-penultimate-round-in-qatar) 
+- [Envia una pregunta para el final de temporada de team torque](https://www.williamsf1.com/articles/7e9075a3-9513-4abf-988d-acd4c83b9b7b/envia-una-pregunta-para-el-final-de-temporada-de-team-torque-2026) 
+- [Submit a question for 2026 team torque season finale](https://www.williamsf1.com/articles/43e5ffd4-cdbe-4989-9385-d45672f86157/submit-a-question-for-2026-team-torque-season-finale) 
+
+## team-haas
+
+- [Qatar grand prix race preview 1](https://www.haasf1team.com/news/qatar-grand-prix-race-preview-1) 
+
+## team-redbull
+
+- [8 unforgettable f1 qualifying laps](https://www.redbullracing.com/int-en/8-unforgettable-f1-qualifying-laps) 
 
 > 由 collect.py 自动生成。PDF 原文在 archive/日期/ 下。
