@@ -1,48 +1,49 @@
-# F1 素材摘要 · 2026-11-26 08:08
+# F1 素材摘要 · 2026-11-26 21:43
 
-
-## fia-decisions
-
-- [2026 qatar grand prix - power unit information](https://www.fia.com/system/files/decision-document/2026_qatar_grand_prix_-_power_unit_information.pdf) （正文 8163 字）
-
-## fia-news
-
-- [FIA completes its review of compliance with the 2025 FIA Formula 1 Financial Regulations](https://www.fia.com/news/fia-completes-its-review-compliance-2025-fia-formula-1-financial-regulations) 
-- [Accepted Breach agreement between Alpine Racing Limited and the FIA for procedural breach of the FIA Formula 1 Financial Regulations for F1 Teams](https://www.fia.com/news/accepted-breach-agreement-between-alpine-racing-limited-and-fia-procedural-breach-fia-formula-1) 
-- [Accepted breach agreement between Williams Grand Prix Engineering Limited and the FIA for breach of the FIA Formula 1 Financial Regulations for F1 Teams](https://www.fia.com/news/accepted-breach-agreement-between-williams-grand-prix-engineering-limited-and-fia-breach-fia) 
-- [FIA announces Moza Racing as official partner of the FIA Esports Global Rally Tour Finals in Shanghai](https://www.fia.com/news/fia-announces-moza-racing-official-partner-fia-esports-global-rally-tour-finals-shanghai) 
 
 ## f1-latest
 
-- [FIA confirm Williams’ minor overspend breach of 2025 Cost Cap](https://www.formula1.com/en/latest/article/fia-confirm-williams-minor-overspend-breach-in-2025-cost-cap-review.12rGorQ1pzc6aH0LX2WdLZ) 
-- [5 storylines we're excited about ahead of the Qatar GP](https://www.formula1.com/en/latest/article/its-race-week-5-storylines-were-excited-about-ahead-of-the-2026-qatar-grand-prix.1bXINUYO8R8X3K7DjINr1A) 
-- [QUIZ: 10 tricky questions on F1 driver bust-ups](https://www.formula1.com/en/latest/article/quiz-10-tricky-questions-on-f1-driver-bust-ups.L5pATOFep8eOxnoTZTjjf) 
-- [Jack Whitehall on why Antonelli surprised him in first meeting](https://www.formula1.com/en/latest/article/hes-not-like-any-sportsman-ive-interacted-with-jack-whitehall-on-why-antonelli-surprised-him-in-first-meeting.2AZ1Cm2uN2NeNKwiQknWZY) 
-- [Best value early bets for the Qatar Grand Prix](https://www.formula1.com/en/latest/article/best-value-early-bets-to-consider-for-the-qatar-grand-prix.5himIJYPG93VDcnQ3sccs9) 
-- [Our early Bet Builder for the Qatar Grand Prix](https://www.formula1.com/en/latest/article/our-early-bet-builder-selections-for-the-qatar-grand-prix.7FBX6XRKhMuX5CMZ996cZ1) 
+- [LIVE COVERAGE: All the build-up ahead of the Qatar GP weekend](https://www.formula1.com/en/latest/article/live-coverage-thursday-build-up-in-qatar-2026.4WEmmZr6fKX8XU6mHM6lN9) 
+- [Facts, stats and trivia ahead of the 2026 Qatar GP](https://www.formula1.com/en/latest/article/need-to-know-the-most-important-facts-stats-and-trivia-ahead-of-the-2026-qatar-grand-prix.7Ayey9W9IVQ1yNkR8F6zEI) 
+- [Everything you need to know about the Lusail International Circuit](https://www.formula1.com/en/latest/article/circuit-guide-everything-you-need-to-know-about-the-lusail-international-circuit.5QWk6JkgFRrObe3OR2mROI) 
+- [2027 line-ups confirmed: Who is on the grid for next season?](https://www.formula1.com/en/latest/article/2027-f1-line-ups-confirmed-in-full-who-is-on-the-grid-for-next-season.4CSw0BzYUotJ459iJ8jEGX) 
+- [Why Bearman’s new Haas deal took so long to get over the line](https://www.formula1.com/en/latest/article/analysis-why-bearmans-new-haas-deal-took-so-long-to-get-over-the-line.M0No4qdgSUFPFMgGKkNKv) 
+- [Bearman to continue with Haas for 2027](https://www.formula1.com/en/latest/article/bearman-to-continue-with-haas-for-2027-as-he-completes-next-years-grid.dRq9fWh9OGjhXuShgGnqE) 
 
 ## the-race
 
-- [Gordon Ramsay named new Top Gear lead presenter](https://www.the-race.com/extra/gordon-ramsay-named-new-top-gear-lead-presenter/) 
-- [Williams and Alpine breached F1's cost cap in 2025](https://www.the-race.com/business/williams-and-alpine-breached-f1s-cost-cap-in-2025/) 
-- [Bagnaia to miss what should've been his final Ducati race](https://www.the-race.com/motogp/pecco-bagnaia-to-miss-what-should-have-been-final-ducati-motogp-race/) 
+- [Qatar expects its F1 race to be sold out](https://www.the-race.com/business/qatar-gp-expects-2026-f1-race-sell-out/) 
+- [Recent MotoGP hopeful retires suddenly aged 23](https://www.the-race.com/motogp/recent-motogp-hopeful-sergio-garcia-retires-suddenly-aged-23/) 
+- [Bearman finally gets 2027 Haas deal after drawn-out renewal](https://www.the-race.com/formula-1/ollie-bearman-2027-haas-f1-deal-drawn-out-renewal/) 
+- [F1 drivers face highest tyre pressure orders yet in Qatar](https://www.the-race.com/formula-1/f1-drivers-face-highest-tyre-pressure-orders-yet-in-qatar/) 
 
 ## motorsport
 
-- [Ralf Schumacher sees echoes of Lewis Hamilton's Nico Rosberg "mind games" after Las Vegas](https://www.motorsport.com/f1/news/ralf-schumacher-says-lewis-hamilton-wants-ferraris-no-1-power-by-any-means-necessary-after-leclerc-/10877712/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www) 
-- [Max Verstappen admits he would “rather stay at home” ahead of Qatar and Abu Dhabi](https://www.motorsport.com/f1/news/verstappen-admits-he-would-rather-stay-at-home-ahead-of-qatar-and-abu-dhabi-despite-f1-safety-guara/10877645/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www) 
-- [FIA filings reveal the Red Bull aero update behind Max Verstappen’s Las Vegas GP win](https://www.motorsport.com/f1/news/fia-filings-reveal-the-lone-rb22-aero-update-behind-max-verstappens-las-vegas-gp-win/10877619/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www) 
-- [Fred Vasseur is running out of answers at Ferrari, says Jolyon Palmer](https://www.motorsport.com/f1/news/worn-out-fred-vasseur-is-running-out-of-answers-at-ferrari-says-jolyon-palmer-/10877422/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www) 
-- [Five things to look out for at F1’s Qatar GP](https://www.motorsport.com/f1/news/five-things-to-look-out-for-at-f1s-qatar-gp/10877727/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www) 
-- [Williams, Alpine fall foul of F1's 2025 cost cap](https://www.motorsport.com/f1/news/williams-breaches-2025-f1-cost-cap-reveals-penalty/10877740/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www) 
+- [Fernando Alonso to miss Qatar F1 media day with viral illness](https://www.motorsport.com/f1/news/fernando-alonso-to-miss-qatar-f1-media-day-with-viral-illness/10877849/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www) 
+- [Fernando Alonso: ‘I will quit F1 when I feel slow, not at a specific age’](https://www.motorsport.com/f1/news/fernando-alonso-i-will-quit-f1-when-i-feel-slow-not-at-a-specific-age/10877599/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www) 
+- [McLaren flags the crucial early-stop trap inside Qatar’s raised 27-lap rule](https://www.motorsport.com/f1/news/mclaren-flags-the-crucial-early-stop-trap-inside-qatars-raised-27-lap-tire-rule/10877828/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www) 
+- [Oliver Bearman locks in Haas F1 seat as 2027 grid officially set](https://www.motorsport.com/f1/news/oliver-bearman-locks-in-haas-f1-seat-as-2027-grid-officially-set/10877802/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www) 
+- [Fred Vasseur backs FIA ruling after Charles Leclerc's Las Vegas clash with Lewis Hamilton](https://www.motorsport.com/f1/news/fred-vasseur-refuses-to-shield-leclerc-over-hamilton-collision-the-decision-of-the-fia-was-quite-cl/10877483/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www) 
+- [Nico Rosberg rules George Russell out of 2027 F1 title fight: “Dug himself into a mental hole”](https://www.motorsport.com/f1/news/nico-rosberg-rules-george-russell-out-of-2027-f1-title-fight-he-dug-himself-into-a-mental-hole/10877719/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www) 
+
+## team-mercedes
+
+- [Play make your 2026 qatar gp predictions](https://www.mercedesamgf1.com/news/play-make-your-2026-qatar-gp-predictions) 
+- [What is the weather forecast for the 2026 qatar gp](https://www.mercedesamgf1.com/news/what-is-the-weather-forecast-for-the-2026-qatar-gp) 
 
 ## team-williams
 
-- [A que hora se apagan los semaforos edicion gp de qatar](https://www.williamsf1.com/articles/17233217-5fad-45e8-b706-aeec240db85c/a-que-hora-se-apagan-los-semaforos-edicion-gp-de-qatar) 
-- [What time is lights out qatar gp edition](https://www.williamsf1.com/articles/d0f905dd-f0fb-4ed5-b96b-2503d218ef67/what-time-is-lights-out-qatar-gp-edition) 
-- [Official team statement 251126](https://www.williamsf1.com/articles/e421abc3-e507-4d21-85bb-481261dca0c2/official-team-statement-251126) 
-- [Behind the badge qatar](https://www.williamsf1.com/articles/39e4554d-30bc-4bf1-b7ba-592d2b8a23f9/behind-the-badge-qatar-2026) 
-- [Detras del escudo catar](https://www.williamsf1.com/articles/8d430005-bf5a-41a5-b078-75abfca28c12/detras-del-escudo-catar-2026) 
-- [In photos a different kind of driving in vegas](https://www.williamsf1.com/articles/79270a21-40e0-4661-9136-22725b515b00/in-photos-a-different-kind-of-driving-in-vegas) 
+- [What s the forecast for the qatar grand prix](https://www.williamsf1.com/articles/be072c43-ea4b-4398-ac76-46d8ca36026a/what-s-the-forecast-for-the-qatar-grand-prix) 
+- [Cual es el pronostico para el gran premio de qatar](https://www.williamsf1.com/articles/c550f9e5-7d1b-4d96-8db3-47def0813c26/cual-es-el-pronostico-para-el-gran-premio-de-qatar) 
+- [Informe tecnico catar](https://www.williamsf1.com/articles/5fe9502c-ca1e-4525-873f-0690f7359bc9/informe-tecnico-catar) 
+- [Technical brief qatar](https://www.williamsf1.com/articles/9bbb83a0-11e0-43fe-a3f3-215d6683bb35/technical-brief-qatar) 
+
+## team-haas
+
+- [Tgr haas f1 team confirms ollie bearman 2027 fia formula 1 world championship](https://www.haasf1team.com/news/tgr-haas-f1-team-confirms-ollie-bearman-2027-fia-formula-1-world-championship) 
+
+## team-redbull
+
+- [Festive frenzy 2026 explained](https://www.redbullracing.com/int-en/festive-frenzy-2026-explained) 
 
 > 由 collect.py 自动生成。PDF 原文在 archive/日期/ 下。
